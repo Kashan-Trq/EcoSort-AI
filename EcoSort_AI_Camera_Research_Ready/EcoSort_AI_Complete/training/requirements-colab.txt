@@ -1,0 +1,3 @@
+# Google Colab usually already includes TensorFlow, numpy, pandas and scikit-learn.
+# tensorflowjs is only required to export a model for the browser application.
+tensorflowjs>=4.20,<5

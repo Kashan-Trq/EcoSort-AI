@@ -1,0 +1,11 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {assess,aggregate,csvEncode,confidenceBand} from '../src/rules.mjs';
+test('unmarked plastic receives manual review',()=>{let r=assess();assert.equal(r.route,'manual');assert.match(r.notes[0],/cannot confirm/)});
+test('PET with verified resin marking routes to local recycling check',()=>{let r=assess({resinCode:'1',condition:'clean',resinEvidence:'verified'});assert.equal(r.route,'recycle');assert.equal(r.verified,true)});
+test('PVC is never pyrolysis recommendation',()=>{let r=assess({resinCode:'3',condition:'clean'});assert.equal(r.route,'specialist');assert.match(r.thermal,/Avoid/)});
+test('contaminated PET is not automatically recycled',()=>{assert.equal(assess({resinCode:'1',condition:'food-contaminated'}).route,'check')});
+test('suspected chemical residue always routes specialist',()=>{assert.equal(assess({resinCode:'5',condition:'chemical residues'}).route,'specialist')});
+test('image-only polymer attribution triggers manual review',()=>{assert.equal(assess({resinCode:'2',condition:'clean',resinEvidence:'image-only'}).route,'manual')});
+test('low model confidence never auto routes',()=>{assert.equal(assess({resinCode:'1',confidence:.36,condition:'clean'}).route,'manual')});
+test('numeric and unknown confidence bands',()=>{assert.equal(confidenceBand(null),'Unavailable');assert.equal(confidenceBand(.2),'Low model score')});
+test('aggregate correct sample and mass sums',()=>{assert.deepEqual(aggregate([{category:'A',split:'train',label_provenance:'Auto-assigned',weight_g:4},{category:'A',split:'test',label_provenance:'Manually verified',weight_g:3}]),{n:2,mass_g:7,byCategory:{A:2},bySplit:{train:1,test:1},byProvenance:{'Auto-assigned':1,'Manually verified':1}})});
+test('CSV escaping quote and comma',()=>{assert.match(csvEncode([{x:'hello,"world"'}],['x']),/hello,""world""/)});

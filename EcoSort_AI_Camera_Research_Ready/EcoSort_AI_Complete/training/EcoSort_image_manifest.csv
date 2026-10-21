@@ -1,0 +1,1351 @@
+Sample ID,View,Relative Image Path,Final Waste Category,Weight (g),ML Split,Label Provenance
+P001,1,EcoSort 0-100/P001/1.jpg,Cup,4.5,test,Auto-assigned
+P001,2,EcoSort 0-100/P001/2.jpg,Cup,4.5,test,Auto-assigned
+P001,3,EcoSort 0-100/P001/3.jpg,Cup,4.5,test,Auto-assigned
+P002,1,EcoSort 0-100/P002/1.jpg,Wrapper / Flexible Packaging,2.1,test,Auto-assigned
+P002,2,EcoSort 0-100/P002/2.jpg,Wrapper / Flexible Packaging,2.1,test,Auto-assigned
+P002,3,EcoSort 0-100/P002/3.jpg,Wrapper / Flexible Packaging,2.1,test,Auto-assigned
+P003,1,EcoSort 0-100/P003/1.jpg,Bottle,35,train,Auto-assigned
+P003,2,EcoSort 0-100/P003/2.jpg,Bottle,35,train,Auto-assigned
+P003,3,EcoSort 0-100/P003/3.jpg,Bottle,35,train,Auto-assigned
+P004,1,EcoSort 0-100/P004/1.jpg,Cup,5.2,test,Auto-assigned
+P004,2,EcoSort 0-100/P004/2.jpg,Cup,5.2,test,Auto-assigned
+P004,3,EcoSort 0-100/P004/3.jpg,Cup,5.2,test,Auto-assigned
+P005,1,EcoSort 0-100/P005/1.jpg,Cap / Lid,3.1,train,Auto-assigned
+P005,2,EcoSort 0-100/P005/2.jpg,Cap / Lid,3.1,train,Auto-assigned
+P005,3,EcoSort 0-100/P005/3.jpg,Cap / Lid,3.1,train,Auto-assigned
+P006,1,EcoSort 0-100/P006/1.jpg,Cap / Lid,3,train,Auto-assigned
+P006,2,EcoSort 0-100/P006/2.jpg,Cap / Lid,3,train,Auto-assigned
+P006,3,EcoSort 0-100/P006/3.jpg,Cap / Lid,3,train,Auto-assigned
+P007,1,EcoSort 0-100/P007/1.jpg,Rigid Part / Fragment,4.8,validation,Auto-assigned
+P007,2,EcoSort 0-100/P007/2.jpg,Rigid Part / Fragment,4.8,validation,Auto-assigned
+P007,3,EcoSort 0-100/P007/3.jpg,Rigid Part / Fragment,4.8,validation,Auto-assigned
+P008,1,EcoSort 0-100/P008/1.jpg,Cup,6.5,train,Auto-assigned
+P008,2,EcoSort 0-100/P008/2.jpg,Cup,6.5,train,Auto-assigned
+P008,3,EcoSort 0-100/P008/3.jpg,Cup,6.5,train,Auto-assigned
+P009,1,EcoSort 0-100/P009/1.jpg,Cap / Lid,2.9,validation,Auto-assigned
+P009,2,EcoSort 0-100/P009/2.jpg,Cap / Lid,2.9,validation,Auto-assigned
+P009,3,EcoSort 0-100/P009/3.jpg,Cap / Lid,2.9,validation,Auto-assigned
+P010,1,EcoSort 0-100/P010/1.jpg,Bottle,22.5,validation,Auto-assigned
+P010,2,EcoSort 0-100/P010/2.jpg,Bottle,22.5,validation,Auto-assigned
+P010,3,EcoSort 0-100/P010/3.jpg,Bottle,22.5,validation,Auto-assigned
+P011,1,EcoSort 0-100/P011/1.jpg,Cup,5.1,train,Auto-assigned
+P011,2,EcoSort 0-100/P011/2.jpg,Cup,5.1,train,Auto-assigned
+P011,3,EcoSort 0-100/P011/3.jpg,Cup,5.1,train,Auto-assigned
+P012,1,EcoSort 0-100/P012/1.jpg,Rigid Part / Fragment,4.9,test,Auto-assigned
+P012,2,EcoSort 0-100/P012/2.jpg,Rigid Part / Fragment,4.9,test,Auto-assigned
+P012,3,EcoSort 0-100/P012/3.jpg,Rigid Part / Fragment,4.9,test,Auto-assigned
+P013,1,EcoSort 0-100/P013/1.jpg,Rigid Part / Fragment,15.2,train,Auto-assigned
+P013,2,EcoSort 0-100/P013/2.jpg,Rigid Part / Fragment,15.2,train,Auto-assigned
+P013,3,EcoSort 0-100/P013/3.jpg,Rigid Part / Fragment,15.2,train,Auto-assigned
+P014,1,EcoSort 0-100/P014/1.jpg,Rigid Part / Fragment,12.5,validation,Auto-assigned
+P014,2,EcoSort 0-100/P014/2.jpg,Rigid Part / Fragment,12.5,validation,Auto-assigned
+P014,3,EcoSort 0-100/P014/3.jpg,Rigid Part / Fragment,12.5,validation,Auto-assigned
+P015,1,EcoSort 0-100/P015/1.jpg,Rigid Part / Fragment,45.3,test,Auto-assigned
+P015,2,EcoSort 0-100/P015/2.jpg,Rigid Part / Fragment,45.3,test,Auto-assigned
+P015,3,EcoSort 0-100/P015/3.jpg,Rigid Part / Fragment,45.3,test,Auto-assigned
+P016,1,EcoSort 0-100/P016/1.jpg,Bottle,24.8,validation,Auto-assigned
+P016,2,EcoSort 0-100/P016/2.jpg,Bottle,24.8,validation,Auto-assigned
+P016,3,EcoSort 0-100/P016/3.jpg,Bottle,24.8,validation,Auto-assigned
+P017,1,EcoSort 0-100/P017/1.jpg,Bottle,25.1,train,Auto-assigned
+P017,2,EcoSort 0-100/P017/2.jpg,Bottle,25.1,train,Auto-assigned
+P017,3,EcoSort 0-100/P017/3.jpg,Bottle,25.1,train,Auto-assigned
+P018,1,EcoSort 0-100/P018/1.jpg,Bottle,27.5,train,Auto-assigned
+P018,2,EcoSort 0-100/P018/2.jpg,Bottle,27.5,train,Auto-assigned
+P018,3,EcoSort 0-100/P018/3.jpg,Bottle,27.5,train,Auto-assigned
+P019,1,EcoSort 0-100/P019/1.jpg,Rigid Part / Fragment,6.4,train,Auto-assigned
+P019,2,EcoSort 0-100/P019/2.jpg,Rigid Part / Fragment,6.4,train,Auto-assigned
+P019,3,EcoSort 0-100/P019/3.jpg,Rigid Part / Fragment,6.4,train,Auto-assigned
+P020,1,EcoSort 0-100/P020/1.jpg,Rigid Part / Fragment,31,train,Auto-assigned
+P020,2,EcoSort 0-100/P020/2.jpg,Rigid Part / Fragment,31,train,Auto-assigned
+P020,3,EcoSort 0-100/P020/3.jpg,Rigid Part / Fragment,31,train,Auto-assigned
+P021,1,EcoSort 0-100/P021/1.jpg,Bag / Film,5.2,train,Auto-assigned
+P021,2,EcoSort 0-100/P021/2.jpg,Bag / Film,5.2,train,Auto-assigned
+P021,3,EcoSort 0-100/P021/3.jpg,Bag / Film,5.2,train,Auto-assigned
+P022,1,EcoSort 0-100/P022/1.jpg,Bottle,26.5,train,Auto-assigned
+P022,2,EcoSort 0-100/P022/2.jpg,Bottle,26.5,train,Auto-assigned
+P022,3,EcoSort 0-100/P022/3.jpg,Bottle,26.5,train,Auto-assigned
+P023,1,EcoSort 0-100/P023/1.jpg,Cap / Lid,2.1,validation,Auto-assigned
+P023,2,EcoSort 0-100/P023/2.jpg,Cap / Lid,2.1,validation,Auto-assigned
+P023,3,EcoSort 0-100/P023/3.jpg,Cap / Lid,2.1,validation,Auto-assigned
+P024,1,EcoSort 0-100/P024/1.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P024,2,EcoSort 0-100/P024/2.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P024,3,EcoSort 0-100/P024/3.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P025,1,EcoSort 0-100/P025/1.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P025,2,EcoSort 0-100/P025/2.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P025,3,EcoSort 0-100/P025/3.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P026,1,EcoSort 0-100/P026/1.jpg,Wrapper / Flexible Packaging,1.4,train,Auto-assigned
+P026,2,EcoSort 0-100/P026/2.jpg,Wrapper / Flexible Packaging,1.4,train,Auto-assigned
+P026,3,EcoSort 0-100/P026/3.jpg,Wrapper / Flexible Packaging,1.4,train,Auto-assigned
+P027,1,EcoSort 0-100/P027/1.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P027,2,EcoSort 0-100/P027/2.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P027,3,EcoSort 0-100/P027/3.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P028,1,EcoSort 0-100/P028/1.jpg,Wrapper / Flexible Packaging,1.8,train,Auto-assigned
+P028,2,EcoSort 0-100/P028/2.jpg,Wrapper / Flexible Packaging,1.8,train,Auto-assigned
+P028,3,EcoSort 0-100/P028/3.jpg,Wrapper / Flexible Packaging,1.8,train,Auto-assigned
+P029,1,EcoSort 0-100/P029/1.jpg,Wrapper / Flexible Packaging,3.2,train,Auto-assigned
+P029,2,EcoSort 0-100/P029/2.jpg,Wrapper / Flexible Packaging,3.2,train,Auto-assigned
+P029,3,EcoSort 0-100/P029/3.jpg,Wrapper / Flexible Packaging,3.2,train,Auto-assigned
+P030,1,EcoSort 0-100/P030/1.jpg,Wrapper / Flexible Packaging,2.2,train,Auto-assigned
+P030,2,EcoSort 0-100/P030/2.jpg,Wrapper / Flexible Packaging,2.2,train,Auto-assigned
+P030,3,EcoSort 0-100/P030/3.jpg,Wrapper / Flexible Packaging,2.2,train,Auto-assigned
+P031,1,EcoSort 0-100/P031/1.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P031,2,EcoSort 0-100/P031/2.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P031,3,EcoSort 0-100/P031/3.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P032,1,EcoSort 0-100/P032/1.jpg,Wrapper / Flexible Packaging,8.5,train,Auto-assigned
+P032,2,EcoSort 0-100/P032/2.jpg,Wrapper / Flexible Packaging,8.5,train,Auto-assigned
+P032,3,EcoSort 0-100/P032/3.jpg,Wrapper / Flexible Packaging,8.5,train,Auto-assigned
+P033,1,EcoSort 0-100/P033/1.jpg,Cup,4.2,train,Auto-assigned
+P033,2,EcoSort 0-100/P033/2.jpg,Cup,4.2,train,Auto-assigned
+P033,3,EcoSort 0-100/P033/3.jpg,Cup,4.2,train,Auto-assigned
+P034,1,EcoSort 0-100/P034/1.jpg,Rigid Part / Fragment,3.5,test,Auto-assigned
+P034,2,EcoSort 0-100/P034/2.jpg,Rigid Part / Fragment,3.5,test,Auto-assigned
+P034,3,EcoSort 0-100/P034/3.jpg,Rigid Part / Fragment,3.5,test,Auto-assigned
+P035,1,EcoSort 0-100/P035/1.jpg,Rigid Part / Fragment,3.6,train,Auto-assigned
+P035,2,EcoSort 0-100/P035/2.jpg,Rigid Part / Fragment,3.6,train,Auto-assigned
+P035,3,EcoSort 0-100/P035/3.jpg,Rigid Part / Fragment,3.6,train,Auto-assigned
+P036,1,EcoSort 0-100/P036/1.jpg,Cup,8.1,train,Auto-assigned
+P036,2,EcoSort 0-100/P036/2.jpg,Cup,8.1,train,Auto-assigned
+P036,3,EcoSort 0-100/P036/3.jpg,Cup,8.1,train,Auto-assigned
+P037,1,EcoSort 0-100/P037/1.jpg,Wrapper / Flexible Packaging,2,validation,Auto-assigned
+P037,2,EcoSort 0-100/P037/2.jpg,Wrapper / Flexible Packaging,2,validation,Auto-assigned
+P037,3,EcoSort 0-100/P037/3.jpg,Wrapper / Flexible Packaging,2,validation,Auto-assigned
+P038,1,EcoSort 0-100/P038/1.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P038,2,EcoSort 0-100/P038/2.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P038,3,EcoSort 0-100/P038/3.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P039,1,EcoSort 0-100/P039/1.jpg,Wrapper / Flexible Packaging,2.2,validation,Auto-assigned
+P039,2,EcoSort 0-100/P039/2.jpg,Wrapper / Flexible Packaging,2.2,validation,Auto-assigned
+P039,3,EcoSort 0-100/P039/3.jpg,Wrapper / Flexible Packaging,2.2,validation,Auto-assigned
+P040,1,EcoSort 0-100/P040/1.jpg,Wrapper / Flexible Packaging,1.8,train,Auto-assigned
+P040,2,EcoSort 0-100/P040/2.jpg,Wrapper / Flexible Packaging,1.8,train,Auto-assigned
+P040,3,EcoSort 0-100/P040/3.jpg,Wrapper / Flexible Packaging,1.8,train,Auto-assigned
+P041,1,EcoSort 0-100/P041/1.jpg,Bottle,38.5,validation,Auto-assigned
+P041,2,EcoSort 0-100/P041/2.jpg,Bottle,38.5,validation,Auto-assigned
+P041,3,EcoSort 0-100/P041/3.jpg,Bottle,38.5,validation,Auto-assigned
+P042,1,EcoSort 0-100/P042/1.jpg,Cap / Lid,2.2,train,Auto-assigned
+P042,2,EcoSort 0-100/P042/2.jpg,Cap / Lid,2.2,train,Auto-assigned
+P042,3,EcoSort 0-100/P042/3.jpg,Cap / Lid,2.2,train,Auto-assigned
+P043,1,EcoSort 0-100/P043/1.jpg,Wrapper / Flexible Packaging,1.6,test,Auto-assigned
+P043,2,EcoSort 0-100/P043/2.jpg,Wrapper / Flexible Packaging,1.6,test,Auto-assigned
+P043,3,EcoSort 0-100/P043/3.jpg,Wrapper / Flexible Packaging,1.6,test,Auto-assigned
+P044,1,EcoSort 0-100/P044/1.jpg,Cap / Lid,2.1,train,Auto-assigned
+P044,2,EcoSort 0-100/P044/2.jpg,Cap / Lid,2.1,train,Auto-assigned
+P044,3,EcoSort 0-100/P044/3.jpg,Cap / Lid,2.1,train,Auto-assigned
+P045,1,EcoSort 0-100/P045/1.jpg,Cap / Lid,2.3,train,Auto-assigned
+P045,2,EcoSort 0-100/P045/2.jpg,Cap / Lid,2.3,train,Auto-assigned
+P045,3,EcoSort 0-100/P045/3.jpg,Cap / Lid,2.3,train,Auto-assigned
+P046,1,EcoSort 0-100/P046/1.jpg,Cap / Lid,3.4,train,Auto-assigned
+P046,2,EcoSort 0-100/P046/2.jpg,Cap / Lid,3.4,train,Auto-assigned
+P046,3,EcoSort 0-100/P046/3.jpg,Cap / Lid,3.4,train,Auto-assigned
+P047,1,EcoSort 0-100/P047/1.jpg,Container / Tray,22,train,Auto-assigned
+P047,2,EcoSort 0-100/P047/2.jpg,Container / Tray,22,train,Auto-assigned
+P047,3,EcoSort 0-100/P047/3.jpg,Container / Tray,22,train,Auto-assigned
+P048,1,EcoSort 0-100/P048/1.jpg,Rigid Part / Fragment,2.5,train,Auto-assigned
+P048,2,EcoSort 0-100/P048/2.jpg,Rigid Part / Fragment,2.5,train,Auto-assigned
+P048,3,EcoSort 0-100/P048/3.jpg,Rigid Part / Fragment,2.5,train,Auto-assigned
+P049,1,EcoSort 0-100/P049/1.jpg,Wrapper / Flexible Packaging,2.8,test,Auto-assigned
+P049,2,EcoSort 0-100/P049/2.jpg,Wrapper / Flexible Packaging,2.8,test,Auto-assigned
+P049,3,EcoSort 0-100/P049/3.jpg,Wrapper / Flexible Packaging,2.8,test,Auto-assigned
+P050,1,EcoSort 0-100/P050/1.jpg,Wrapper / Flexible Packaging,2.6,train,Auto-assigned
+P050,2,EcoSort 0-100/P050/2.jpg,Wrapper / Flexible Packaging,2.6,train,Auto-assigned
+P050,3,EcoSort 0-100/P050/3.jpg,Wrapper / Flexible Packaging,2.6,train,Auto-assigned
+P051,1,EcoSort 0-100/P051/1.jpg,Wrapper / Flexible Packaging,2.5,validation,Auto-assigned
+P051,2,EcoSort 0-100/P051/2.jpg,Wrapper / Flexible Packaging,2.5,validation,Auto-assigned
+P051,3,EcoSort 0-100/P051/3.jpg,Wrapper / Flexible Packaging,2.5,validation,Auto-assigned
+P052,1,EcoSort 0-100/P052/1.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P052,2,EcoSort 0-100/P052/2.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P052,3,EcoSort 0-100/P052/3.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P053,1,EcoSort 0-100/P053/1.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P053,2,EcoSort 0-100/P053/2.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P053,3,EcoSort 0-100/P053/3.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P054,1,EcoSort 0-100/P054/1.jpg,Bag / Film,4,test,Auto-assigned
+P054,2,EcoSort 0-100/P054/2.jpg,Bag / Film,4,test,Auto-assigned
+P054,3,EcoSort 0-100/P054/3.jpg,Bag / Film,4,test,Auto-assigned
+P055,1,EcoSort 0-100/P055/1.jpg,Rigid Part / Fragment,5,train,Auto-assigned
+P055,2,EcoSort 0-100/P055/2.jpg,Rigid Part / Fragment,5,train,Auto-assigned
+P055,3,EcoSort 0-100/P055/3.jpg,Rigid Part / Fragment,5,train,Auto-assigned
+P056,1,EcoSort 0-100/P056/1.jpg,Wrapper / Flexible Packaging,1.8,validation,Auto-assigned
+P056,2,EcoSort 0-100/P056/2.jpg,Wrapper / Flexible Packaging,1.8,validation,Auto-assigned
+P056,3,EcoSort 0-100/P056/3.jpg,Wrapper / Flexible Packaging,1.8,validation,Auto-assigned
+P057,1,EcoSort 0-100/P057/1.jpg,Wrapper / Flexible Packaging,1.2,train,Auto-assigned
+P057,2,EcoSort 0-100/P057/2.jpg,Wrapper / Flexible Packaging,1.2,train,Auto-assigned
+P057,3,EcoSort 0-100/P057/3.jpg,Wrapper / Flexible Packaging,1.2,train,Auto-assigned
+P058,1,EcoSort 0-100/P058/1.jpg,Straw / Utensil,3,train,Auto-assigned
+P058,2,EcoSort 0-100/P058/2.jpg,Straw / Utensil,3,train,Auto-assigned
+P058,3,EcoSort 0-100/P058/3.jpg,Straw / Utensil,3,train,Auto-assigned
+P059,1,EcoSort 0-100/P059/1.jpg,Cap / Lid,3.2,train,Auto-assigned
+P059,2,EcoSort 0-100/P059/2.jpg,Cap / Lid,3.2,train,Auto-assigned
+P059,3,EcoSort 0-100/P059/3.jpg,Cap / Lid,3.2,train,Auto-assigned
+P060,1,EcoSort 0-100/P060/1.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P060,2,EcoSort 0-100/P060/2.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P060,3,EcoSort 0-100/P060/3.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P061,1,EcoSort 0-100/P061/1.jpg,Bag / Film,3.5,validation,Auto-assigned
+P061,2,EcoSort 0-100/P061/2.jpg,Bag / Film,3.5,validation,Auto-assigned
+P061,3,EcoSort 0-100/P061/3.jpg,Bag / Film,3.5,validation,Auto-assigned
+P062,1,EcoSort 0-100/P062/1.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P062,2,EcoSort 0-100/P062/2.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P062,3,EcoSort 0-100/P062/3.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P063,1,EcoSort 0-100/P063/1.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P063,2,EcoSort 0-100/P063/2.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P063,3,EcoSort 0-100/P063/3.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P064,1,EcoSort 0-100/P064/1.jpg,Container / Tray,15,validation,Auto-assigned
+P064,2,EcoSort 0-100/P064/2.jpg,Container / Tray,15,validation,Auto-assigned
+P064,3,EcoSort 0-100/P064/3.jpg,Container / Tray,15,validation,Auto-assigned
+P065,1,EcoSort 0-100/P065/1.jpg,Bag / Film,4.5,train,Auto-assigned
+P065,2,EcoSort 0-100/P065/2.jpg,Bag / Film,4.5,train,Auto-assigned
+P065,3,EcoSort 0-100/P065/3.jpg,Bag / Film,4.5,train,Auto-assigned
+P066,1,EcoSort 0-100/P066/1.jpg,Wrapper / Flexible Packaging,9,train,Auto-assigned
+P066,2,EcoSort 0-100/P066/2.jpg,Wrapper / Flexible Packaging,9,train,Auto-assigned
+P066,3,EcoSort 0-100/P066/3.jpg,Wrapper / Flexible Packaging,9,train,Auto-assigned
+P067,1,EcoSort 0-100/P067/1.jpg,Wrapper / Flexible Packaging,1,train,Auto-assigned
+P067,2,EcoSort 0-100/P067/2.jpg,Wrapper / Flexible Packaging,1,train,Auto-assigned
+P067,3,EcoSort 0-100/P067/3.jpg,Wrapper / Flexible Packaging,1,train,Auto-assigned
+P068,1,EcoSort 0-100/P068/1.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P068,2,EcoSort 0-100/P068/2.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P068,3,EcoSort 0-100/P068/3.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P069,1,EcoSort 0-100/P069/1.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P069,2,EcoSort 0-100/P069/2.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P069,3,EcoSort 0-100/P069/3.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P070,1,EcoSort 0-100/P070/1.jpg,Wrapper / Flexible Packaging,3.5,train,Auto-assigned
+P070,2,EcoSort 0-100/P070/2.jpg,Wrapper / Flexible Packaging,3.5,train,Auto-assigned
+P070,3,EcoSort 0-100/P070/3.jpg,Wrapper / Flexible Packaging,3.5,train,Auto-assigned
+P071,1,EcoSort 0-100/P071/1.jpg,Wrapper / Flexible Packaging,2.5,validation,Auto-assigned
+P071,2,EcoSort 0-100/P071/2.jpg,Wrapper / Flexible Packaging,2.5,validation,Auto-assigned
+P071,3,EcoSort 0-100/P071/3.jpg,Wrapper / Flexible Packaging,2.5,validation,Auto-assigned
+P072,1,EcoSort 0-100/P072/1.jpg,Bag / Film,4.5,train,Auto-assigned
+P072,2,EcoSort 0-100/P072/2.jpg,Bag / Film,4.5,train,Auto-assigned
+P072,3,EcoSort 0-100/P072/3.jpg,Bag / Film,4.5,train,Auto-assigned
+P073,1,EcoSort 0-100/P073/1.jpg,Wrapper / Flexible Packaging,8.5,train,Auto-assigned
+P073,2,EcoSort 0-100/P073/2.jpg,Wrapper / Flexible Packaging,8.5,train,Auto-assigned
+P073,3,EcoSort 0-100/P073/3.jpg,Wrapper / Flexible Packaging,8.5,train,Auto-assigned
+P074,1,EcoSort 0-100/P074/1.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P074,2,EcoSort 0-100/P074/2.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P074,3,EcoSort 0-100/P074/3.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P075,1,EcoSort 0-100/P075/1.jpg,Rigid Part / Fragment,12,train,Auto-assigned
+P075,2,EcoSort 0-100/P075/2.jpg,Rigid Part / Fragment,12,train,Auto-assigned
+P075,3,EcoSort 0-100/P075/3.jpg,Rigid Part / Fragment,12,train,Auto-assigned
+P076,1,EcoSort 0-100/P076/1.jpg,Bottle,22,validation,Auto-assigned
+P076,2,EcoSort 0-100/P076/2.jpg,Bottle,22,validation,Auto-assigned
+P076,3,EcoSort 0-100/P076/3.jpg,Bottle,22,validation,Auto-assigned
+P077,1,EcoSort 0-100/P077/1.jpg,Cap / Lid,2.3,train,Auto-assigned
+P077,2,EcoSort 0-100/P077/2.jpg,Cap / Lid,2.3,train,Auto-assigned
+P077,3,EcoSort 0-100/P077/3.jpg,Cap / Lid,2.3,train,Auto-assigned
+P078,1,EcoSort 0-100/P078/1.jpg,Cap / Lid,3.8,test,Auto-assigned
+P078,2,EcoSort 0-100/P078/2.jpg,Cap / Lid,3.8,test,Auto-assigned
+P078,3,EcoSort 0-100/P078/3.jpg,Cap / Lid,3.8,test,Auto-assigned
+P079,1,EcoSort 0-100/P079/1.jpg,Bag / Film,6.5,validation,Auto-assigned
+P079,2,EcoSort 0-100/P079/2.jpg,Bag / Film,6.5,validation,Auto-assigned
+P079,3,EcoSort 0-100/P079/3.jpg,Bag / Film,6.5,validation,Auto-assigned
+P080,1,EcoSort 0-100/P080/1.jpg,Bag / Film,4,validation,Auto-assigned
+P080,2,EcoSort 0-100/P080/2.jpg,Bag / Film,4,validation,Auto-assigned
+P080,3,EcoSort 0-100/P080/3.jpg,Bag / Film,4,validation,Auto-assigned
+P081,1,EcoSort 0-100/P081/1.jpg,Container / Tray,28.5,train,Auto-assigned
+P081,2,EcoSort 0-100/P081/2.jpg,Container / Tray,28.5,train,Auto-assigned
+P081,3,EcoSort 0-100/P081/3.jpg,Container / Tray,28.5,train,Auto-assigned
+P082,1,EcoSort 0-100/P082/1.jpg,Bag / Film,6,test,Auto-assigned
+P082,2,EcoSort 0-100/P082/2.jpg,Bag / Film,6,test,Auto-assigned
+P082,3,EcoSort 0-100/P082/3.jpg,Bag / Film,6,test,Auto-assigned
+P083,1,EcoSort 0-100/P083/1.jpg,Cup,4.5,train,Auto-assigned
+P083,2,EcoSort 0-100/P083/2.jpg,Cup,4.5,train,Auto-assigned
+P083,3,EcoSort 0-100/P083/3.jpg,Cup,4.5,train,Auto-assigned
+P084,1,EcoSort 0-100/P084/1.jpg,Bottle,21,train,Auto-assigned
+P084,2,EcoSort 0-100/P084/2.jpg,Bottle,21,train,Auto-assigned
+P084,3,EcoSort 0-100/P084/3.jpg,Bottle,21,train,Auto-assigned
+P085,1,EcoSort 0-100/P085/1.jpg,Cap / Lid,2.2,train,Auto-assigned
+P085,2,EcoSort 0-100/P085/2.jpg,Cap / Lid,2.2,train,Auto-assigned
+P085,3,EcoSort 0-100/P085/3.jpg,Cap / Lid,2.2,train,Auto-assigned
+P086,1,EcoSort 0-100/P086/1.jpg,Bottle,35,train,Auto-assigned
+P086,2,EcoSort 0-100/P086/2.jpg,Bottle,35,train,Auto-assigned
+P086,3,EcoSort 0-100/P086/3.jpg,Bottle,35,train,Auto-assigned
+P087,1,EcoSort 0-100/P087/1.jpg,Bottle,32,train,Auto-assigned
+P087,2,EcoSort 0-100/P087/2.jpg,Bottle,32,train,Auto-assigned
+P087,3,EcoSort 0-100/P087/3.jpg,Bottle,32,train,Auto-assigned
+P088,1,EcoSort 0-100/P088/1.jpg,Bag / Film,3.8,test,Auto-assigned
+P088,2,EcoSort 0-100/P088/2.jpg,Bag / Film,3.8,test,Auto-assigned
+P088,3,EcoSort 0-100/P088/3.jpg,Bag / Film,3.8,test,Auto-assigned
+P089,1,EcoSort 0-100/P089/1.jpg,Bag / Film,4.1,train,Auto-assigned
+P089,2,EcoSort 0-100/P089/2.jpg,Bag / Film,4.1,train,Auto-assigned
+P089,3,EcoSort 0-100/P089/3.jpg,Bag / Film,4.1,train,Auto-assigned
+P090,1,EcoSort 0-100/P090/1.jpg,Wrapper / Flexible Packaging,1.8,validation,Auto-assigned
+P090,2,EcoSort 0-100/P090/2.jpg,Wrapper / Flexible Packaging,1.8,validation,Auto-assigned
+P090,3,EcoSort 0-100/P090/3.jpg,Wrapper / Flexible Packaging,1.8,validation,Auto-assigned
+P091,1,EcoSort 0-100/P091/1.jpg,Wrapper / Flexible Packaging,8,train,Auto-assigned
+P091,2,EcoSort 0-100/P091/2.jpg,Wrapper / Flexible Packaging,8,train,Auto-assigned
+P091,3,EcoSort 0-100/P091/3.jpg,Wrapper / Flexible Packaging,8,train,Auto-assigned
+P092,1,EcoSort 0-100/P092/1.jpg,Rigid Part / Fragment,5,train,Auto-assigned
+P092,2,EcoSort 0-100/P092/2.jpg,Rigid Part / Fragment,5,train,Auto-assigned
+P092,3,EcoSort 0-100/P092/3.jpg,Rigid Part / Fragment,5,train,Auto-assigned
+P093,1,EcoSort 0-100/P093/1.jpg,Bag / Film,4,train,Auto-assigned
+P093,2,EcoSort 0-100/P093/2.jpg,Bag / Film,4,train,Auto-assigned
+P093,3,EcoSort 0-100/P093/3.jpg,Bag / Film,4,train,Auto-assigned
+P094,1,EcoSort 0-100/P094/1.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P094,2,EcoSort 0-100/P094/2.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P094,3,EcoSort 0-100/P094/3.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P095,1,EcoSort 0-100/P095/1.jpg,Wrapper / Flexible Packaging,12,train,Auto-assigned
+P095,2,EcoSort 0-100/P095/2.jpg,Wrapper / Flexible Packaging,12,train,Auto-assigned
+P095,3,EcoSort 0-100/P095/3.jpg,Wrapper / Flexible Packaging,12,train,Auto-assigned
+P096,1,EcoSort 0-100/P096/1.jpg,Bag / Film,3.5,train,Auto-assigned
+P096,2,EcoSort 0-100/P096/2.jpg,Bag / Film,3.5,train,Auto-assigned
+P096,3,EcoSort 0-100/P096/3.jpg,Bag / Film,3.5,train,Auto-assigned
+P097,1,EcoSort 0-100/P097/1.jpg,Cap / Lid,2.5,train,Auto-assigned
+P097,2,EcoSort 0-100/P097/2.jpg,Cap / Lid,2.5,train,Auto-assigned
+P097,3,EcoSort 0-100/P097/3.jpg,Cap / Lid,2.5,train,Auto-assigned
+P098,1,EcoSort 0-100/P098/1.jpg,Bag / Film,4,train,Auto-assigned
+P098,2,EcoSort 0-100/P098/2.jpg,Bag / Film,4,train,Auto-assigned
+P098,3,EcoSort 0-100/P098/3.jpg,Bag / Film,4,train,Auto-assigned
+P099,1,EcoSort 0-100/P099/1.jpg,Container / Tray,15,test,Auto-assigned
+P099,2,EcoSort 0-100/P099/2.jpg,Container / Tray,15,test,Auto-assigned
+P099,3,EcoSort 0-100/P099/3.jpg,Container / Tray,15,test,Auto-assigned
+P100,1,EcoSort 0-100/P100/1.jpg,Cap / Lid,2.2,train,Auto-assigned
+P100,2,EcoSort 0-100/P100/2.jpg,Cap / Lid,2.2,train,Auto-assigned
+P100,3,EcoSort 0-100/P100/3.jpg,Cap / Lid,2.2,train,Auto-assigned
+P101,1,EcoSort 101-200/P101/1.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P101,2,EcoSort 101-200/P101/2.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P101,3,EcoSort 101-200/P101/3.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P102,1,EcoSort 101-200/P102/1.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P102,2,EcoSort 101-200/P102/2.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P102,3,EcoSort 101-200/P102/3.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P103,1,EcoSort 101-200/P103/1.jpg,Container / Tray,1.2,validation,Auto-assigned
+P103,2,EcoSort 101-200/P103/2.jpg,Container / Tray,1.2,validation,Auto-assigned
+P103,3,EcoSort 101-200/P103/3.jpg,Container / Tray,1.2,validation,Auto-assigned
+P104,1,EcoSort 101-200/P104/1.jpg,Wrapper / Flexible Packaging,2,test,Auto-assigned
+P104,2,EcoSort 101-200/P104/2.jpg,Wrapper / Flexible Packaging,2,test,Auto-assigned
+P104,3,EcoSort 101-200/P104/3.jpg,Wrapper / Flexible Packaging,2,test,Auto-assigned
+P105,1,EcoSort 101-200/P105/1.jpg,Wrapper / Flexible Packaging,1.8,validation,Auto-assigned
+P105,2,EcoSort 101-200/P105/2.jpg,Wrapper / Flexible Packaging,1.8,validation,Auto-assigned
+P105,3,EcoSort 101-200/P105/3.jpg,Wrapper / Flexible Packaging,1.8,validation,Auto-assigned
+P106,1,EcoSort 101-200/P106/1.jpg,Bag / Film,3.5,train,Auto-assigned
+P106,2,EcoSort 101-200/P106/2.jpg,Bag / Film,3.5,train,Auto-assigned
+P106,3,EcoSort 101-200/P106/3.jpg,Bag / Film,3.5,train,Auto-assigned
+P107,1,EcoSort 101-200/P107/1.jpg,Wrapper / Flexible Packaging,1.8,train,Auto-assigned
+P107,2,EcoSort 101-200/P107/2.jpg,Wrapper / Flexible Packaging,1.8,train,Auto-assigned
+P107,3,EcoSort 101-200/P107/3.jpg,Wrapper / Flexible Packaging,1.8,train,Auto-assigned
+P108,1,EcoSort 101-200/P108/1.jpg,Wrapper / Flexible Packaging,2.2,test,Auto-assigned
+P108,2,EcoSort 101-200/P108/2.jpg,Wrapper / Flexible Packaging,2.2,test,Auto-assigned
+P108,3,EcoSort 101-200/P108/3.jpg,Wrapper / Flexible Packaging,2.2,test,Auto-assigned
+P109,1,EcoSort 101-200/P109/1.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P109,2,EcoSort 101-200/P109/2.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P109,3,EcoSort 101-200/P109/3.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P110,1,EcoSort 101-200/P110/1.jpg,Bag / Film,4.5,test,Auto-assigned
+P110,2,EcoSort 101-200/P110/2.jpg,Bag / Film,4.5,test,Auto-assigned
+P110,3,EcoSort 101-200/P110/3.jpg,Bag / Film,4.5,test,Auto-assigned
+P111,1,EcoSort 101-200/P111/1.jpg,Cup,5,validation,Auto-assigned
+P111,2,EcoSort 101-200/P111/2.jpg,Cup,5,validation,Auto-assigned
+P111,3,EcoSort 101-200/P111/3.jpg,Cup,5,validation,Auto-assigned
+P112,1,EcoSort 101-200/P112/1.jpg,Cap / Lid,3.5,validation,Manually verified
+P112,2,EcoSort 101-200/P112/2.jpg,Cap / Lid,3.5,validation,Manually verified
+P112,3,EcoSort 101-200/P112/3.jpg,Cap / Lid,3.5,validation,Manually verified
+P113,1,EcoSort 101-200/P113/1.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P113,2,EcoSort 101-200/P113/2.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P113,3,EcoSort 101-200/P113/3.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P114,1,EcoSort 101-200/P114/1.jpg,Wrapper / Flexible Packaging,4.5,train,Manually verified
+P114,2,EcoSort 101-200/P114/2.jpg,Wrapper / Flexible Packaging,4.5,train,Manually verified
+P114,3,EcoSort 101-200/P114/3.jpg,Wrapper / Flexible Packaging,4.5,train,Manually verified
+P115,1,EcoSort 101-200/P115/1.jpg,Bag / Film,5.5,test,Auto-assigned
+P115,2,EcoSort 101-200/P115/2.jpg,Bag / Film,5.5,test,Auto-assigned
+P115,3,EcoSort 101-200/P115/3.jpg,Bag / Film,5.5,test,Auto-assigned
+P116,1,EcoSort 101-200/P116/1.jpg,Wrapper / Flexible Packaging,0.8,train,Auto-assigned
+P116,2,EcoSort 101-200/P116/2.jpg,Wrapper / Flexible Packaging,0.8,train,Auto-assigned
+P116,3,EcoSort 101-200/P116/3.jpg,Wrapper / Flexible Packaging,0.8,train,Auto-assigned
+P117,1,EcoSort 101-200/P117/1.jpg,Cap / Lid,2.8,test,Manually verified
+P117,2,EcoSort 101-200/P117/2.jpg,Cap / Lid,2.8,test,Manually verified
+P117,3,EcoSort 101-200/P117/3.jpg,Cap / Lid,2.8,test,Manually verified
+P118,1,EcoSort 101-200/P118/1.jpg,Bottle,23,test,Auto-assigned
+P118,2,EcoSort 101-200/P118/2.jpg,Bottle,23,test,Auto-assigned
+P118,3,EcoSort 101-200/P118/3.jpg,Bottle,23,test,Auto-assigned
+P119,1,EcoSort 101-200/P119/1.jpg,Cap / Lid,2.2,train,Auto-assigned
+P119,2,EcoSort 101-200/P119/2.jpg,Cap / Lid,2.2,train,Auto-assigned
+P119,3,EcoSort 101-200/P119/3.jpg,Cap / Lid,2.2,train,Auto-assigned
+P120,1,EcoSort 101-200/P120/1.jpg,Wrapper / Flexible Packaging,2.8,validation,Auto-assigned
+P120,2,EcoSort 101-200/P120/2.jpg,Wrapper / Flexible Packaging,2.8,validation,Auto-assigned
+P120,3,EcoSort 101-200/P120/3.jpg,Wrapper / Flexible Packaging,2.8,validation,Auto-assigned
+P121,1,EcoSort 101-200/P121/1.jpg,Bottle,22,train,Auto-assigned
+P121,2,EcoSort 101-200/P121/2.jpg,Bottle,22,train,Auto-assigned
+P121,3,EcoSort 101-200/P121/3.jpg,Bottle,22,train,Auto-assigned
+P122,1,EcoSort 101-200/P122/1.jpg,Cap / Lid,2.1,test,Auto-assigned
+P122,2,EcoSort 101-200/P122/2.jpg,Cap / Lid,2.1,test,Auto-assigned
+P122,3,EcoSort 101-200/P122/3.jpg,Cap / Lid,2.1,test,Auto-assigned
+P123,1,EcoSort 101-200/P123/1.jpg,Bag / Film,4.5,train,Auto-assigned
+P123,2,EcoSort 101-200/P123/2.jpg,Bag / Film,4.5,train,Auto-assigned
+P123,3,EcoSort 101-200/P123/3.jpg,Bag / Film,4.5,train,Auto-assigned
+P124,1,EcoSort 101-200/P124/1.jpg,Bag / Film,3.8,test,Auto-assigned
+P124,2,EcoSort 101-200/P124/2.jpg,Bag / Film,3.8,test,Auto-assigned
+P124,3,EcoSort 101-200/P124/3.jpg,Bag / Film,3.8,test,Auto-assigned
+P125,1,EcoSort 101-200/P125/1.jpg,Rigid Part / Fragment,15,train,Auto-assigned
+P125,2,EcoSort 101-200/P125/2.jpg,Rigid Part / Fragment,15,train,Auto-assigned
+P125,3,EcoSort 101-200/P125/3.jpg,Rigid Part / Fragment,15,train,Auto-assigned
+P126,1,EcoSort 101-200/P126/1.jpg,Wrapper / Flexible Packaging,2,test,Auto-assigned
+P126,2,EcoSort 101-200/P126/2.jpg,Wrapper / Flexible Packaging,2,test,Auto-assigned
+P126,3,EcoSort 101-200/P126/3.jpg,Wrapper / Flexible Packaging,2,test,Auto-assigned
+P127,1,EcoSort 101-200/P127/1.jpg,Bag / Film,3.5,train,Auto-assigned
+P127,2,EcoSort 101-200/P127/2.jpg,Bag / Film,3.5,train,Auto-assigned
+P127,3,EcoSort 101-200/P127/3.jpg,Bag / Film,3.5,train,Auto-assigned
+P128,1,EcoSort 101-200/P128/1.jpg,Rigid Part / Fragment,4.2,test,Auto-assigned
+P128,2,EcoSort 101-200/P128/2.jpg,Rigid Part / Fragment,4.2,test,Auto-assigned
+P128,3,EcoSort 101-200/P128/3.jpg,Rigid Part / Fragment,4.2,test,Auto-assigned
+P129,1,EcoSort 101-200/P129/1.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P129,2,EcoSort 101-200/P129/2.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P129,3,EcoSort 101-200/P129/3.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P130,1,EcoSort 101-200/P130/1.jpg,Container / Tray,2.5,train,Auto-assigned
+P130,2,EcoSort 101-200/P130/2.jpg,Container / Tray,2.5,train,Auto-assigned
+P130,3,EcoSort 101-200/P130/3.jpg,Container / Tray,2.5,train,Auto-assigned
+P131,1,EcoSort 101-200/P131/1.jpg,Cup,8.1,train,Auto-assigned
+P131,2,EcoSort 101-200/P131/2.jpg,Cup,8.1,train,Auto-assigned
+P131,3,EcoSort 101-200/P131/3.jpg,Cup,8.1,train,Auto-assigned
+P132,1,EcoSort 101-200/P132/1.jpg,Cap / Lid,3.5,train,Auto-assigned
+P132,2,EcoSort 101-200/P132/2.jpg,Cap / Lid,3.5,train,Auto-assigned
+P132,3,EcoSort 101-200/P132/3.jpg,Cap / Lid,3.5,train,Auto-assigned
+P133,1,EcoSort 101-200/P133/1.jpg,Cup,5.5,train,Auto-assigned
+P133,2,EcoSort 101-200/P133/2.jpg,Cup,5.5,train,Auto-assigned
+P133,3,EcoSort 101-200/P133/3.jpg,Cup,5.5,train,Auto-assigned
+P134,1,EcoSort 101-200/P134/1.jpg,Cap / Lid,2.5,train,Auto-assigned
+P134,2,EcoSort 101-200/P134/2.jpg,Cap / Lid,2.5,train,Auto-assigned
+P134,3,EcoSort 101-200/P134/3.jpg,Cap / Lid,2.5,train,Auto-assigned
+P135,1,EcoSort 101-200/P135/1.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P135,2,EcoSort 101-200/P135/2.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P135,3,EcoSort 101-200/P135/3.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P136,1,EcoSort 101-200/P136/1.jpg,Wrapper / Flexible Packaging,2.2,train,Auto-assigned
+P136,2,EcoSort 101-200/P136/2.jpg,Wrapper / Flexible Packaging,2.2,train,Auto-assigned
+P136,3,EcoSort 101-200/P136/3.jpg,Wrapper / Flexible Packaging,2.2,train,Auto-assigned
+P137,1,EcoSort 101-200/P137/1.jpg,Cap / Lid,3,validation,Auto-assigned
+P137,2,EcoSort 101-200/P137/2.jpg,Cap / Lid,3,validation,Auto-assigned
+P137,3,EcoSort 101-200/P137/3.jpg,Cap / Lid,3,validation,Auto-assigned
+P138,1,EcoSort 101-200/P138/1.jpg,Bag / Film,4.5,train,Auto-assigned
+P138,2,EcoSort 101-200/P138/2.jpg,Bag / Film,4.5,train,Auto-assigned
+P138,3,EcoSort 101-200/P138/3.jpg,Bag / Film,4.5,train,Auto-assigned
+P139,1,EcoSort 101-200/P139/1.jpg,Bottle,1,train,Auto-assigned
+P139,2,EcoSort 101-200/P139/2.jpg,Bottle,1,train,Auto-assigned
+P139,3,EcoSort 101-200/P139/3.jpg,Bottle,1,train,Auto-assigned
+P140,1,EcoSort 101-200/P140/1.jpg,Cup,2,test,Auto-assigned
+P140,2,EcoSort 101-200/P140/2.jpg,Cup,2,test,Auto-assigned
+P140,3,EcoSort 101-200/P140/3.jpg,Cup,2,test,Auto-assigned
+P141,1,EcoSort 101-200/P141/1.jpg,Cap / Lid,3.5,train,Auto-assigned
+P141,2,EcoSort 101-200/P141/2.jpg,Cap / Lid,3.5,train,Auto-assigned
+P141,3,EcoSort 101-200/P141/3.jpg,Cap / Lid,3.5,train,Auto-assigned
+P142,1,EcoSort 101-200/P142/1.jpg,Bag / Film,4,train,Auto-assigned
+P142,2,EcoSort 101-200/P142/2.jpg,Bag / Film,4,train,Auto-assigned
+P142,3,EcoSort 101-200/P142/3.jpg,Bag / Film,4,train,Auto-assigned
+P143,1,EcoSort 101-200/P143/1.jpg,Bag / Film,4.2,train,Auto-assigned
+P143,2,EcoSort 101-200/P143/2.jpg,Bag / Film,4.2,train,Auto-assigned
+P143,3,EcoSort 101-200/P143/3.jpg,Bag / Film,4.2,train,Auto-assigned
+P144,1,EcoSort 101-200/P144/1.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P144,2,EcoSort 101-200/P144/2.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P144,3,EcoSort 101-200/P144/3.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P145,1,EcoSort 101-200/P145/1.jpg,Cup,5,train,Auto-assigned
+P145,2,EcoSort 101-200/P145/2.jpg,Cup,5,train,Auto-assigned
+P145,3,EcoSort 101-200/P145/3.jpg,Cup,5,train,Auto-assigned
+P146,1,EcoSort 101-200/P146/1.jpg,Cup,5.2,train,Auto-assigned
+P146,2,EcoSort 101-200/P146/2.jpg,Cup,5.2,train,Auto-assigned
+P146,3,EcoSort 101-200/P146/3.jpg,Cup,5.2,train,Auto-assigned
+P147,1,EcoSort 101-200/P147/1.jpg,Cap / Lid,3,train,Auto-assigned
+P147,2,EcoSort 101-200/P147/2.jpg,Cap / Lid,3,train,Auto-assigned
+P147,3,EcoSort 101-200/P147/3.jpg,Cap / Lid,3,train,Auto-assigned
+P148,1,EcoSort 101-200/P148/1.jpg,Wrapper / Flexible Packaging,1.2,validation,Auto-assigned
+P148,2,EcoSort 101-200/P148/2.jpg,Wrapper / Flexible Packaging,1.2,validation,Auto-assigned
+P148,3,EcoSort 101-200/P148/3.jpg,Wrapper / Flexible Packaging,1.2,validation,Auto-assigned
+P149,1,EcoSort 101-200/P149/1.jpg,Straw / Utensil,1.5,train,Auto-assigned
+P149,2,EcoSort 101-200/P149/2.jpg,Straw / Utensil,1.5,train,Auto-assigned
+P149,3,EcoSort 101-200/P149/3.jpg,Straw / Utensil,1.5,train,Auto-assigned
+P150,1,EcoSort 101-200/P150/1.jpg,Wrapper / Flexible Packaging,2,test,Auto-assigned
+P150,2,EcoSort 101-200/P150/2.jpg,Wrapper / Flexible Packaging,2,test,Auto-assigned
+P150,3,EcoSort 101-200/P150/3.jpg,Wrapper / Flexible Packaging,2,test,Auto-assigned
+P151,1,EcoSort 101-200/P151/1.jpg,Bottle,45,train,Auto-assigned
+P151,2,EcoSort 101-200/P151/2.jpg,Bottle,45,train,Auto-assigned
+P151,3,EcoSort 101-200/P151/3.jpg,Bottle,45,train,Auto-assigned
+P152,1,EcoSort 101-200/P152/1.jpg,Rigid Part / Fragment,45,test,Auto-assigned
+P152,2,EcoSort 101-200/P152/2.jpg,Rigid Part / Fragment,45,test,Auto-assigned
+P152,3,EcoSort 101-200/P152/3.jpg,Rigid Part / Fragment,45,test,Auto-assigned
+P153,1,EcoSort 101-200/P153/1.jpg,Rigid Part / Fragment,4,train,Auto-assigned
+P153,2,EcoSort 101-200/P153/2.jpg,Rigid Part / Fragment,4,train,Auto-assigned
+P153,3,EcoSort 101-200/P153/3.jpg,Rigid Part / Fragment,4,train,Auto-assigned
+P154,1,EcoSort 101-200/P154/1.jpg,Rigid Part / Fragment,2.5,train,Auto-assigned
+P154,2,EcoSort 101-200/P154/2.jpg,Rigid Part / Fragment,2.5,train,Auto-assigned
+P154,3,EcoSort 101-200/P154/3.jpg,Rigid Part / Fragment,2.5,train,Auto-assigned
+P155,1,EcoSort 101-200/P155/1.jpg,Wrapper / Flexible Packaging,1.5,test,Auto-assigned
+P155,2,EcoSort 101-200/P155/2.jpg,Wrapper / Flexible Packaging,1.5,test,Auto-assigned
+P155,3,EcoSort 101-200/P155/3.jpg,Wrapper / Flexible Packaging,1.5,test,Auto-assigned
+P156,1,EcoSort 101-200/P156/1.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P156,2,EcoSort 101-200/P156/2.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P156,3,EcoSort 101-200/P156/3.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P157,1,EcoSort 101-200/P157/1.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P157,2,EcoSort 101-200/P157/2.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P157,3,EcoSort 101-200/P157/3.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P158,1,EcoSort 101-200/P158/1.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P158,2,EcoSort 101-200/P158/2.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P158,3,EcoSort 101-200/P158/3.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P159,1,EcoSort 101-200/P159/1.jpg,Wrapper / Flexible Packaging,1.8,train,Auto-assigned
+P159,2,EcoSort 101-200/P159/2.jpg,Wrapper / Flexible Packaging,1.8,train,Auto-assigned
+P159,3,EcoSort 101-200/P159/3.jpg,Wrapper / Flexible Packaging,1.8,train,Auto-assigned
+P160,1,EcoSort 101-200/P160/1.jpg,Wrapper / Flexible Packaging,1.8,validation,Auto-assigned
+P160,2,EcoSort 101-200/P160/2.jpg,Wrapper / Flexible Packaging,1.8,validation,Auto-assigned
+P160,3,EcoSort 101-200/P160/3.jpg,Wrapper / Flexible Packaging,1.8,validation,Auto-assigned
+P161,1,EcoSort 101-200/P161/1.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P161,2,EcoSort 101-200/P161/2.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P161,3,EcoSort 101-200/P161/3.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P162,1,EcoSort 101-200/P162/1.jpg,Cup,3,train,Auto-assigned
+P162,2,EcoSort 101-200/P162/2.jpg,Cup,3,train,Auto-assigned
+P162,3,EcoSort 101-200/P162/3.jpg,Cup,3,train,Auto-assigned
+P163,1,EcoSort 101-200/P163/1.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P163,2,EcoSort 101-200/P163/2.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P163,3,EcoSort 101-200/P163/3.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P164,1,EcoSort 101-200/P164/1.jpg,Wrapper / Flexible Packaging,1.5,validation,Auto-assigned
+P164,2,EcoSort 101-200/P164/2.jpg,Wrapper / Flexible Packaging,1.5,validation,Auto-assigned
+P164,3,EcoSort 101-200/P164/3.jpg,Wrapper / Flexible Packaging,1.5,validation,Auto-assigned
+P165,1,EcoSort 101-200/P165/1.jpg,Wrapper / Flexible Packaging,1.8,train,Auto-assigned
+P165,2,EcoSort 101-200/P165/2.jpg,Wrapper / Flexible Packaging,1.8,train,Auto-assigned
+P165,3,EcoSort 101-200/P165/3.jpg,Wrapper / Flexible Packaging,1.8,train,Auto-assigned
+P166,1,EcoSort 101-200/P166/1.jpg,Wrapper / Flexible Packaging,4.5,train,Auto-assigned
+P166,2,EcoSort 101-200/P166/2.jpg,Wrapper / Flexible Packaging,4.5,train,Auto-assigned
+P166,3,EcoSort 101-200/P166/3.jpg,Wrapper / Flexible Packaging,4.5,train,Auto-assigned
+P167,1,EcoSort 101-200/P167/1.jpg,Rigid Part / Fragment,2.5,train,Auto-assigned
+P167,2,EcoSort 101-200/P167/2.jpg,Rigid Part / Fragment,2.5,train,Auto-assigned
+P167,3,EcoSort 101-200/P167/3.jpg,Rigid Part / Fragment,2.5,train,Auto-assigned
+P168,1,EcoSort 101-200/P168/1.jpg,Wrapper / Flexible Packaging,2.5,validation,Auto-assigned
+P168,2,EcoSort 101-200/P168/2.jpg,Wrapper / Flexible Packaging,2.5,validation,Auto-assigned
+P168,3,EcoSort 101-200/P168/3.jpg,Wrapper / Flexible Packaging,2.5,validation,Auto-assigned
+P169,1,EcoSort 101-200/P169/1.jpg,Straw / Utensil,1,train,Auto-assigned
+P169,2,EcoSort 101-200/P169/2.jpg,Straw / Utensil,1,train,Auto-assigned
+P169,3,EcoSort 101-200/P169/3.jpg,Straw / Utensil,1,train,Auto-assigned
+P170,1,EcoSort 101-200/P170/1.jpg,Cup,4,train,Auto-assigned
+P170,2,EcoSort 101-200/P170/2.jpg,Cup,4,train,Auto-assigned
+P170,3,EcoSort 101-200/P170/3.jpg,Cup,4,train,Auto-assigned
+P171,1,EcoSort 101-200/P171/1.jpg,Wrapper / Flexible Packaging,2.5,test,Auto-assigned
+P171,2,EcoSort 101-200/P171/2.jpg,Wrapper / Flexible Packaging,2.5,test,Auto-assigned
+P171,3,EcoSort 101-200/P171/3.jpg,Wrapper / Flexible Packaging,2.5,test,Auto-assigned
+P172,1,EcoSort 101-200/P172/1.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P172,2,EcoSort 101-200/P172/2.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P172,3,EcoSort 101-200/P172/3.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P173,1,EcoSort 101-200/P173/1.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P173,2,EcoSort 101-200/P173/2.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P173,3,EcoSort 101-200/P173/3.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P174,1,EcoSort 101-200/P174/1.jpg,Wrapper / Flexible Packaging,15,train,Manually verified
+P174,2,EcoSort 101-200/P174/2.jpg,Wrapper / Flexible Packaging,15,train,Manually verified
+P174,3,EcoSort 101-200/P174/3.jpg,Wrapper / Flexible Packaging,15,train,Manually verified
+P175,1,EcoSort 101-200/P175/1.jpg,Wrapper / Flexible Packaging,15,train,Manually verified
+P175,2,EcoSort 101-200/P175/2.jpg,Wrapper / Flexible Packaging,15,train,Manually verified
+P175,3,EcoSort 101-200/P175/3.jpg,Wrapper / Flexible Packaging,15,train,Manually verified
+P176,1,EcoSort 101-200/P176/1.jpg,Cup,5,validation,Auto-assigned
+P176,2,EcoSort 101-200/P176/2.jpg,Cup,5,validation,Auto-assigned
+P176,3,EcoSort 101-200/P176/3.jpg,Cup,5,validation,Auto-assigned
+P177,1,EcoSort 101-200/P177/1.jpg,Cup,5.5,train,Auto-assigned
+P177,2,EcoSort 101-200/P177/2.jpg,Cup,5.5,train,Auto-assigned
+P177,3,EcoSort 101-200/P177/3.jpg,Cup,5.5,train,Auto-assigned
+P178,1,EcoSort 101-200/P178/1.jpg,Wrapper / Flexible Packaging,2.5,validation,Auto-assigned
+P178,2,EcoSort 101-200/P178/2.jpg,Wrapper / Flexible Packaging,2.5,validation,Auto-assigned
+P178,3,EcoSort 101-200/P178/3.jpg,Wrapper / Flexible Packaging,2.5,validation,Auto-assigned
+P179,1,EcoSort 101-200/P179/1.jpg,Wrapper / Flexible Packaging,1.5,test,Auto-assigned
+P179,2,EcoSort 101-200/P179/2.jpg,Wrapper / Flexible Packaging,1.5,test,Auto-assigned
+P179,3,EcoSort 101-200/P179/3.jpg,Wrapper / Flexible Packaging,1.5,test,Auto-assigned
+P180,1,EcoSort 101-200/P180/1.jpg,Wrapper / Flexible Packaging,1.8,validation,Auto-assigned
+P180,2,EcoSort 101-200/P180/2.jpg,Wrapper / Flexible Packaging,1.8,validation,Auto-assigned
+P180,3,EcoSort 101-200/P180/3.jpg,Wrapper / Flexible Packaging,1.8,validation,Auto-assigned
+P181,1,EcoSort 101-200/P181/1.jpg,Wrapper / Flexible Packaging,4.5,test,Auto-assigned
+P181,2,EcoSort 101-200/P181/2.jpg,Wrapper / Flexible Packaging,4.5,test,Auto-assigned
+P181,3,EcoSort 101-200/P181/3.jpg,Wrapper / Flexible Packaging,4.5,test,Auto-assigned
+P182,1,EcoSort 101-200/P182/1.jpg,Rigid Part / Fragment,2.5,train,Auto-assigned
+P182,2,EcoSort 101-200/P182/2.jpg,Rigid Part / Fragment,2.5,train,Auto-assigned
+P182,3,EcoSort 101-200/P182/3.jpg,Rigid Part / Fragment,2.5,train,Auto-assigned
+P183,1,EcoSort 101-200/P183/1.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P183,2,EcoSort 101-200/P183/2.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P183,3,EcoSort 101-200/P183/3.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P184,1,EcoSort 101-200/P184/1.jpg,Straw / Utensil,1,test,Auto-assigned
+P184,2,EcoSort 101-200/P184/2.jpg,Straw / Utensil,1,test,Auto-assigned
+P184,3,EcoSort 101-200/P184/3.jpg,Straw / Utensil,1,test,Auto-assigned
+P185,1,EcoSort 101-200/P185/1.jpg,Cap / Lid,3,train,Auto-assigned
+P185,2,EcoSort 101-200/P185/2.jpg,Cap / Lid,3,train,Auto-assigned
+P185,3,EcoSort 101-200/P185/3.jpg,Cap / Lid,3,train,Auto-assigned
+P186,1,EcoSort 101-200/P186/1.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P186,2,EcoSort 101-200/P186/2.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P186,3,EcoSort 101-200/P186/3.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P187,1,EcoSort 101-200/P187/1.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P187,2,EcoSort 101-200/P187/2.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P187,3,EcoSort 101-200/P187/3.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P188,1,EcoSort 101-200/P188/1.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P188,2,EcoSort 101-200/P188/2.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P188,3,EcoSort 101-200/P188/3.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P189,1,EcoSort 101-200/P189/1.jpg,Bag / Film,15,train,Manually verified
+P189,2,EcoSort 101-200/P189/2.jpg,Bag / Film,15,train,Manually verified
+P189,3,EcoSort 101-200/P189/3.jpg,Bag / Film,15,train,Manually verified
+P190,1,EcoSort 101-200/P190/1.jpg,Wrapper / Flexible Packaging,15,test,Manually verified
+P190,2,EcoSort 101-200/P190/2.jpg,Wrapper / Flexible Packaging,15,test,Manually verified
+P190,3,EcoSort 101-200/P190/3.jpg,Wrapper / Flexible Packaging,15,test,Manually verified
+P191,1,EcoSort 101-200/P191/1.jpg,Cup,5,train,Auto-assigned
+P191,2,EcoSort 101-200/P191/2.jpg,Cup,5,train,Auto-assigned
+P191,3,EcoSort 101-200/P191/3.jpg,Cup,5,train,Auto-assigned
+P192,1,EcoSort 101-200/P192/1.jpg,Cup,5.5,train,Auto-assigned
+P192,2,EcoSort 101-200/P192/2.jpg,Cup,5.5,train,Auto-assigned
+P192,3,EcoSort 101-200/P192/3.jpg,Cup,5.5,train,Auto-assigned
+P193,1,EcoSort 101-200/P193/1.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P193,2,EcoSort 101-200/P193/2.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P193,3,EcoSort 101-200/P193/3.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P194,1,EcoSort 101-200/P194/1.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P194,2,EcoSort 101-200/P194/2.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P194,3,EcoSort 101-200/P194/3.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P195,1,EcoSort 101-200/P195/1.jpg,Wrapper / Flexible Packaging,1.8,train,Auto-assigned
+P195,2,EcoSort 101-200/P195/2.jpg,Wrapper / Flexible Packaging,1.8,train,Auto-assigned
+P195,3,EcoSort 101-200/P195/3.jpg,Wrapper / Flexible Packaging,1.8,train,Auto-assigned
+P196,1,EcoSort 101-200/P196/1.jpg,Wrapper / Flexible Packaging,1,validation,Auto-assigned
+P196,2,EcoSort 101-200/P196/2.jpg,Wrapper / Flexible Packaging,1,validation,Auto-assigned
+P196,3,EcoSort 101-200/P196/3.jpg,Wrapper / Flexible Packaging,1,validation,Auto-assigned
+P197,1,EcoSort 101-200/P197/1.jpg,Cap / Lid,3,test,Auto-assigned
+P197,2,EcoSort 101-200/P197/2.jpg,Cap / Lid,3,test,Auto-assigned
+P197,3,EcoSort 101-200/P197/3.jpg,Cap / Lid,3,test,Auto-assigned
+P198,1,EcoSort 101-200/P198/1.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P198,2,EcoSort 101-200/P198/2.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P198,3,EcoSort 101-200/P198/3.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P199,1,EcoSort 101-200/P199/1.jpg,Cap / Lid,2.2,validation,Auto-assigned
+P199,2,EcoSort 101-200/P199/2.jpg,Cap / Lid,2.2,validation,Auto-assigned
+P199,3,EcoSort 101-200/P199/3.jpg,Cap / Lid,2.2,validation,Auto-assigned
+P200,1,EcoSort 101-200/P200/1.jpg,Bag / Film,4.5,train,Manually verified
+P200,2,EcoSort 101-200/P200/2.jpg,Bag / Film,4.5,train,Manually verified
+P200,3,EcoSort 101-200/P200/3.jpg,Bag / Film,4.5,train,Manually verified
+P201,1,EcoSort 201-300/P201/1.jpg,Container / Tray,1.2,train,Auto-assigned
+P201,2,EcoSort 201-300/P201/2.jpg,Container / Tray,1.2,train,Auto-assigned
+P201,3,EcoSort 201-300/P201/3.jpg,Container / Tray,1.2,train,Auto-assigned
+P202,1,EcoSort 201-300/P202/1.jpg,Bag / Film,3.5,train,Auto-assigned
+P202,2,EcoSort 201-300/P202/2.jpg,Bag / Film,3.5,train,Auto-assigned
+P202,3,EcoSort 201-300/P202/3.jpg,Bag / Film,3.5,train,Auto-assigned
+P203,1,EcoSort 201-300/P203/1.jpg,Wrapper / Flexible Packaging,1,train,Auto-assigned
+P203,2,EcoSort 201-300/P203/2.jpg,Wrapper / Flexible Packaging,1,train,Auto-assigned
+P203,3,EcoSort 201-300/P203/3.jpg,Wrapper / Flexible Packaging,1,train,Auto-assigned
+P204,1,EcoSort 201-300/P204/1.jpg,Bottle,22,train,Auto-assigned
+P204,2,EcoSort 201-300/P204/2.jpg,Bottle,22,train,Auto-assigned
+P204,3,EcoSort 201-300/P204/3.jpg,Bottle,22,train,Auto-assigned
+P205,1,EcoSort 201-300/P205/1.jpg,Cap / Lid,2.1,train,Auto-assigned
+P205,2,EcoSort 201-300/P205/2.jpg,Cap / Lid,2.1,train,Auto-assigned
+P205,3,EcoSort 201-300/P205/3.jpg,Cap / Lid,2.1,train,Auto-assigned
+P206,1,EcoSort 201-300/P206/1.jpg,Bag / Film,3,train,Auto-assigned
+P206,2,EcoSort 201-300/P206/2.jpg,Bag / Film,3,train,Auto-assigned
+P206,3,EcoSort 201-300/P206/3.jpg,Bag / Film,3,train,Auto-assigned
+P207,1,EcoSort 201-300/P207/1.jpg,Bag / Film,4.5,train,Auto-assigned
+P207,2,EcoSort 201-300/P207/2.jpg,Bag / Film,4.5,train,Auto-assigned
+P207,3,EcoSort 201-300/P207/3.jpg,Bag / Film,4.5,train,Auto-assigned
+P208,1,EcoSort 201-300/P208/1.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P208,2,EcoSort 201-300/P208/2.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P208,3,EcoSort 201-300/P208/3.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P209,1,EcoSort 201-300/P209/1.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P209,2,EcoSort 201-300/P209/2.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P209,3,EcoSort 201-300/P209/3.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P210,1,EcoSort 201-300/P210/1.jpg,Bag / Film,3,validation,Auto-assigned
+P210,2,EcoSort 201-300/P210/2.jpg,Bag / Film,3,validation,Auto-assigned
+P210,3,EcoSort 201-300/P210/3.jpg,Bag / Film,3,validation,Auto-assigned
+P211,1,EcoSort 201-300/P211/1.jpg,Bag / Film,4,train,Auto-assigned
+P211,2,EcoSort 201-300/P211/2.jpg,Bag / Film,4,train,Auto-assigned
+P211,3,EcoSort 201-300/P211/3.jpg,Bag / Film,4,train,Auto-assigned
+P212,1,EcoSort 201-300/P212/1.jpg,Bag / Film,3.5,train,Auto-assigned
+P212,2,EcoSort 201-300/P212/2.jpg,Bag / Film,3.5,train,Auto-assigned
+P212,3,EcoSort 201-300/P212/3.jpg,Bag / Film,3.5,train,Auto-assigned
+P213,1,EcoSort 201-300/P213/1.jpg,Bag / Film,3,train,Auto-assigned
+P213,2,EcoSort 201-300/P213/2.jpg,Bag / Film,3,train,Auto-assigned
+P213,3,EcoSort 201-300/P213/3.jpg,Bag / Film,3,train,Auto-assigned
+P214,1,EcoSort 201-300/P214/1.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P214,2,EcoSort 201-300/P214/2.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P214,3,EcoSort 201-300/P214/3.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P215,1,EcoSort 201-300/P215/1.jpg,Bag / Film,3.5,train,Auto-assigned
+P215,2,EcoSort 201-300/P215/2.jpg,Bag / Film,3.5,train,Auto-assigned
+P215,3,EcoSort 201-300/P215/3.jpg,Bag / Film,3.5,train,Auto-assigned
+P216,1,EcoSort 201-300/P216/1.jpg,Cap / Lid,2.2,train,Auto-assigned
+P216,2,EcoSort 201-300/P216/2.jpg,Cap / Lid,2.2,train,Auto-assigned
+P216,3,EcoSort 201-300/P216/3.jpg,Cap / Lid,2.2,train,Auto-assigned
+P217,1,EcoSort 201-300/P217/1.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P217,2,EcoSort 201-300/P217/2.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P217,3,EcoSort 201-300/P217/3.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P218,1,EcoSort 201-300/P218/1.jpg,Wrapper / Flexible Packaging,1,train,Auto-assigned
+P218,2,EcoSort 201-300/P218/2.jpg,Wrapper / Flexible Packaging,1,train,Auto-assigned
+P218,3,EcoSort 201-300/P218/3.jpg,Wrapper / Flexible Packaging,1,train,Auto-assigned
+P219,1,EcoSort 201-300/P219/1.jpg,Bag / Film,4.5,train,Auto-assigned
+P219,2,EcoSort 201-300/P219/2.jpg,Bag / Film,4.5,train,Auto-assigned
+P219,3,EcoSort 201-300/P219/3.jpg,Bag / Film,4.5,train,Auto-assigned
+P220,1,EcoSort 201-300/P220/1.jpg,Wrapper / Flexible Packaging,1.8,train,Auto-assigned
+P220,2,EcoSort 201-300/P220/2.jpg,Wrapper / Flexible Packaging,1.8,train,Auto-assigned
+P220,3,EcoSort 201-300/P220/3.jpg,Wrapper / Flexible Packaging,1.8,train,Auto-assigned
+P221,1,EcoSort 201-300/P221/1.jpg,Bag / Film,4,train,Auto-assigned
+P221,2,EcoSort 201-300/P221/2.jpg,Bag / Film,4,train,Auto-assigned
+P221,3,EcoSort 201-300/P221/3.jpg,Bag / Film,4,train,Auto-assigned
+P222,1,EcoSort 201-300/P222/1.jpg,Bag / Film,4.5,validation,Auto-assigned
+P222,2,EcoSort 201-300/P222/2.jpg,Bag / Film,4.5,validation,Auto-assigned
+P222,3,EcoSort 201-300/P222/3.jpg,Bag / Film,4.5,validation,Auto-assigned
+P223,1,EcoSort 201-300/P223/1.jpg,Wrapper / Flexible Packaging,1,train,Auto-assigned
+P223,2,EcoSort 201-300/P223/2.jpg,Wrapper / Flexible Packaging,1,train,Auto-assigned
+P223,3,EcoSort 201-300/P223/3.jpg,Wrapper / Flexible Packaging,1,train,Auto-assigned
+P224,1,EcoSort 201-300/P224/1.jpg,Wrapper / Flexible Packaging,1,train,Auto-assigned
+P224,2,EcoSort 201-300/P224/2.jpg,Wrapper / Flexible Packaging,1,train,Auto-assigned
+P224,3,EcoSort 201-300/P224/3.jpg,Wrapper / Flexible Packaging,1,train,Auto-assigned
+P225,1,EcoSort 201-300/P225/1.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P225,2,EcoSort 201-300/P225/2.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P225,3,EcoSort 201-300/P225/3.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P226,1,EcoSort 201-300/P226/1.jpg,Cap / Lid,2.2,train,Auto-assigned
+P226,2,EcoSort 201-300/P226/2.jpg,Cap / Lid,2.2,train,Auto-assigned
+P226,3,EcoSort 201-300/P226/3.jpg,Cap / Lid,2.2,train,Auto-assigned
+P227,1,EcoSort 201-300/P227/1.jpg,Cup,4.5,validation,Auto-assigned
+P227,2,EcoSort 201-300/P227/2.jpg,Cup,4.5,validation,Auto-assigned
+P227,3,EcoSort 201-300/P227/3.jpg,Cup,4.5,validation,Auto-assigned
+P228,1,EcoSort 201-300/P228/1.jpg,Bag / Film,3,train,Auto-assigned
+P228,2,EcoSort 201-300/P228/2.jpg,Bag / Film,3,train,Auto-assigned
+P228,3,EcoSort 201-300/P228/3.jpg,Bag / Film,3,train,Auto-assigned
+P229,1,EcoSort 201-300/P229/1.jpg,Rigid Part / Fragment,3,train,Auto-assigned
+P229,2,EcoSort 201-300/P229/2.jpg,Rigid Part / Fragment,3,train,Auto-assigned
+P229,3,EcoSort 201-300/P229/3.jpg,Rigid Part / Fragment,3,train,Auto-assigned
+P230,1,EcoSort 201-300/P230/1.jpg,Cup,5,test,Auto-assigned
+P230,2,EcoSort 201-300/P230/2.jpg,Cup,5,test,Auto-assigned
+P230,3,EcoSort 201-300/P230/3.jpg,Cup,5,test,Auto-assigned
+P231,1,EcoSort 201-300/P231/1.jpg,Cap / Lid,3,test,Auto-assigned
+P231,2,EcoSort 201-300/P231/2.jpg,Cap / Lid,3,test,Auto-assigned
+P231,3,EcoSort 201-300/P231/3.jpg,Cap / Lid,3,test,Auto-assigned
+P232,1,EcoSort 201-300/P232/1.jpg,Straw / Utensil,2.5,train,Auto-assigned
+P232,2,EcoSort 201-300/P232/2.jpg,Straw / Utensil,2.5,train,Auto-assigned
+P232,3,EcoSort 201-300/P232/3.jpg,Straw / Utensil,2.5,train,Auto-assigned
+P233,1,EcoSort 201-300/P233/1.jpg,Straw / Utensil,1,train,Auto-assigned
+P233,2,EcoSort 201-300/P233/2.jpg,Straw / Utensil,1,train,Auto-assigned
+P233,3,EcoSort 201-300/P233/3.jpg,Straw / Utensil,1,train,Auto-assigned
+P234,1,EcoSort 201-300/P234/1.jpg,Bag / Film,3.5,train,Auto-assigned
+P234,2,EcoSort 201-300/P234/2.jpg,Bag / Film,3.5,train,Auto-assigned
+P234,3,EcoSort 201-300/P234/3.jpg,Bag / Film,3.5,train,Auto-assigned
+P235,1,EcoSort 201-300/P235/1.jpg,Straw / Utensil,2.5,validation,Auto-assigned
+P235,2,EcoSort 201-300/P235/2.jpg,Straw / Utensil,2.5,validation,Auto-assigned
+P235,3,EcoSort 201-300/P235/3.jpg,Straw / Utensil,2.5,validation,Auto-assigned
+P236,1,EcoSort 201-300/P236/1.jpg,Cup,5,train,Auto-assigned
+P236,2,EcoSort 201-300/P236/2.jpg,Cup,5,train,Auto-assigned
+P236,3,EcoSort 201-300/P236/3.jpg,Cup,5,train,Auto-assigned
+P237,1,EcoSort 201-300/P237/1.jpg,Cup,3,train,Manually verified
+P237,2,EcoSort 201-300/P237/2.jpg,Cup,3,train,Manually verified
+P237,3,EcoSort 201-300/P237/3.jpg,Cup,3,train,Manually verified
+P238,1,EcoSort 201-300/P238/1.jpg,Straw / Utensil,1,validation,Auto-assigned
+P238,2,EcoSort 201-300/P238/2.jpg,Straw / Utensil,1,validation,Auto-assigned
+P238,3,EcoSort 201-300/P238/3.jpg,Straw / Utensil,1,validation,Auto-assigned
+P239,1,EcoSort 201-300/P239/1.jpg,Bottle,4,train,Manually verified
+P239,2,EcoSort 201-300/P239/2.jpg,Bottle,4,train,Manually verified
+P239,3,EcoSort 201-300/P239/3.jpg,Bottle,4,train,Manually verified
+P240,1,EcoSort 201-300/P240/1.jpg,Cup,5,validation,Auto-assigned
+P240,2,EcoSort 201-300/P240/2.jpg,Cup,5,validation,Auto-assigned
+P240,3,EcoSort 201-300/P240/3.jpg,Cup,5,validation,Auto-assigned
+P241,1,EcoSort 201-300/P241/1.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P241,2,EcoSort 201-300/P241/2.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P241,3,EcoSort 201-300/P241/3.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P242,1,EcoSort 201-300/P242/1.jpg,Wrapper / Flexible Packaging,2,test,Auto-assigned
+P242,2,EcoSort 201-300/P242/2.jpg,Wrapper / Flexible Packaging,2,test,Auto-assigned
+P242,3,EcoSort 201-300/P242/3.jpg,Wrapper / Flexible Packaging,2,test,Auto-assigned
+P243,1,EcoSort 201-300/P243/1.jpg,Wrapper / Flexible Packaging,1,train,Auto-assigned
+P243,2,EcoSort 201-300/P243/2.jpg,Wrapper / Flexible Packaging,1,train,Auto-assigned
+P243,3,EcoSort 201-300/P243/3.jpg,Wrapper / Flexible Packaging,1,train,Auto-assigned
+P244,1,EcoSort 201-300/P244/1.jpg,Rigid Part / Fragment,5,test,Auto-assigned
+P244,2,EcoSort 201-300/P244/2.jpg,Rigid Part / Fragment,5,test,Auto-assigned
+P244,3,EcoSort 201-300/P244/3.jpg,Rigid Part / Fragment,5,test,Auto-assigned
+P245,1,EcoSort 201-300/P245/1.jpg,Cup,4,train,Auto-assigned
+P245,2,EcoSort 201-300/P245/2.jpg,Cup,4,train,Auto-assigned
+P245,3,EcoSort 201-300/P245/3.jpg,Cup,4,train,Auto-assigned
+P246,1,EcoSort 201-300/P246/1.jpg,Wrapper / Flexible Packaging,2,test,Auto-assigned
+P246,2,EcoSort 201-300/P246/2.jpg,Wrapper / Flexible Packaging,2,test,Auto-assigned
+P246,3,EcoSort 201-300/P246/3.jpg,Wrapper / Flexible Packaging,2,test,Auto-assigned
+P247,1,EcoSort 201-300/P247/1.jpg,Rigid Part / Fragment,3,train,Auto-assigned
+P247,2,EcoSort 201-300/P247/2.jpg,Rigid Part / Fragment,3,train,Auto-assigned
+P247,3,EcoSort 201-300/P247/3.jpg,Rigid Part / Fragment,3,train,Auto-assigned
+P248,1,EcoSort 201-300/P248/1.jpg,Rigid Part / Fragment,3.5,train,Auto-assigned
+P248,2,EcoSort 201-300/P248/2.jpg,Rigid Part / Fragment,3.5,train,Auto-assigned
+P248,3,EcoSort 201-300/P248/3.jpg,Rigid Part / Fragment,3.5,train,Auto-assigned
+P249,1,EcoSort 201-300/P249/1.jpg,Cap / Lid,4,train,Auto-assigned
+P249,2,EcoSort 201-300/P249/2.jpg,Cap / Lid,4,train,Auto-assigned
+P249,3,EcoSort 201-300/P249/3.jpg,Cap / Lid,4,train,Auto-assigned
+P250,1,EcoSort 201-300/P250/1.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P250,2,EcoSort 201-300/P250/2.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P250,3,EcoSort 201-300/P250/3.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P251,1,EcoSort 201-300/P251/1.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P251,2,EcoSort 201-300/P251/2.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P251,3,EcoSort 201-300/P251/3.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P252,1,EcoSort 201-300/P252/1.jpg,Wrapper / Flexible Packaging,2.5,test,Auto-assigned
+P252,2,EcoSort 201-300/P252/2.jpg,Wrapper / Flexible Packaging,2.5,test,Auto-assigned
+P252,3,EcoSort 201-300/P252/3.jpg,Wrapper / Flexible Packaging,2.5,test,Auto-assigned
+P253,1,EcoSort 201-300/P253/1.jpg,Wrapper / Flexible Packaging,2,validation,Auto-assigned
+P253,2,EcoSort 201-300/P253/2.jpg,Wrapper / Flexible Packaging,2,validation,Auto-assigned
+P253,3,EcoSort 201-300/P253/3.jpg,Wrapper / Flexible Packaging,2,validation,Auto-assigned
+P254,1,EcoSort 201-300/P254/1.jpg,Wrapper / Flexible Packaging,1,test,Auto-assigned
+P254,2,EcoSort 201-300/P254/2.jpg,Wrapper / Flexible Packaging,1,test,Auto-assigned
+P254,3,EcoSort 201-300/P254/3.jpg,Wrapper / Flexible Packaging,1,test,Auto-assigned
+P255,1,EcoSort 201-300/P255/1.jpg,Cap / Lid,2.5,train,Auto-assigned
+P255,2,EcoSort 201-300/P255/2.jpg,Cap / Lid,2.5,train,Auto-assigned
+P255,3,EcoSort 201-300/P255/3.jpg,Cap / Lid,2.5,train,Auto-assigned
+P256,1,EcoSort 201-300/P256/1.jpg,Bag / Film,4,validation,Manually verified
+P256,2,EcoSort 201-300/P256/2.jpg,Bag / Film,4,validation,Manually verified
+P256,3,EcoSort 201-300/P256/3.jpg,Bag / Film,4,validation,Manually verified
+P257,1,EcoSort 201-300/P257/1.jpg,Cup,5,train,Auto-assigned
+P257,2,EcoSort 201-300/P257/2.jpg,Cup,5,train,Auto-assigned
+P257,3,EcoSort 201-300/P257/3.jpg,Cup,5,train,Auto-assigned
+P258,1,EcoSort 201-300/P258/1.jpg,Container / Tray,4.5,train,Auto-assigned
+P258,2,EcoSort 201-300/P258/2.jpg,Container / Tray,4.5,train,Auto-assigned
+P258,3,EcoSort 201-300/P258/3.jpg,Container / Tray,4.5,train,Auto-assigned
+P259,1,EcoSort 201-300/P259/1.jpg,Bottle,12,train,Auto-assigned
+P259,2,EcoSort 201-300/P259/2.jpg,Bottle,12,train,Auto-assigned
+P259,3,EcoSort 201-300/P259/3.jpg,Bottle,12,train,Auto-assigned
+P260,1,EcoSort 201-300/P260/1.jpg,Cap / Lid,2.2,train,Auto-assigned
+P260,2,EcoSort 201-300/P260/2.jpg,Cap / Lid,2.2,train,Auto-assigned
+P260,3,EcoSort 201-300/P260/3.jpg,Cap / Lid,2.2,train,Auto-assigned
+P261,1,EcoSort 201-300/P261/1.jpg,Bag / Film,3,train,Auto-assigned
+P261,2,EcoSort 201-300/P261/2.jpg,Bag / Film,3,train,Auto-assigned
+P261,3,EcoSort 201-300/P261/3.jpg,Bag / Film,3,train,Auto-assigned
+P262,1,EcoSort 201-300/P262/1.jpg,Cup,4.5,train,Auto-assigned
+P262,2,EcoSort 201-300/P262/2.jpg,Cup,4.5,train,Auto-assigned
+P262,3,EcoSort 201-300/P262/3.jpg,Cup,4.5,train,Auto-assigned
+P263,1,EcoSort 201-300/P263/1.jpg,Straw / Utensil,1,train,Auto-assigned
+P263,2,EcoSort 201-300/P263/2.jpg,Straw / Utensil,1,train,Auto-assigned
+P263,3,EcoSort 201-300/P263/3.jpg,Straw / Utensil,1,train,Auto-assigned
+P264,1,EcoSort 201-300/P264/1.jpg,Cap / Lid,3,train,Auto-assigned
+P264,2,EcoSort 201-300/P264/2.jpg,Cap / Lid,3,train,Auto-assigned
+P264,3,EcoSort 201-300/P264/3.jpg,Cap / Lid,3,train,Auto-assigned
+P265,1,EcoSort 201-300/P265/1.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P265,2,EcoSort 201-300/P265/2.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P265,3,EcoSort 201-300/P265/3.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P266,1,EcoSort 201-300/P266/1.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P266,2,EcoSort 201-300/P266/2.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P266,3,EcoSort 201-300/P266/3.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P267,1,EcoSort 201-300/P267/1.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P267,2,EcoSort 201-300/P267/2.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P267,3,EcoSort 201-300/P267/3.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P268,1,EcoSort 201-300/P268/1.jpg,Wrapper / Flexible Packaging,2.5,test,Auto-assigned
+P268,2,EcoSort 201-300/P268/2.jpg,Wrapper / Flexible Packaging,2.5,test,Auto-assigned
+P268,3,EcoSort 201-300/P268/3.jpg,Wrapper / Flexible Packaging,2.5,test,Auto-assigned
+P269,1,EcoSort 201-300/P269/1.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P269,2,EcoSort 201-300/P269/2.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P269,3,EcoSort 201-300/P269/3.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P270,1,EcoSort 201-300/P270/1.jpg,Bag / Film,3,train,Auto-assigned
+P270,2,EcoSort 201-300/P270/2.jpg,Bag / Film,3,train,Auto-assigned
+P270,3,EcoSort 201-300/P270/3.jpg,Bag / Film,3,train,Auto-assigned
+P271,1,EcoSort 201-300/P271/1.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P271,2,EcoSort 201-300/P271/2.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P271,3,EcoSort 201-300/P271/3.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P272,1,EcoSort 201-300/P272/1.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P272,2,EcoSort 201-300/P272/2.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P272,3,EcoSort 201-300/P272/3.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P273,1,EcoSort 201-300/P273/1.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P273,2,EcoSort 201-300/P273/2.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P273,3,EcoSort 201-300/P273/3.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P274,1,EcoSort 201-300/P274/1.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P274,2,EcoSort 201-300/P274/2.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P274,3,EcoSort 201-300/P274/3.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P275,1,EcoSort 201-300/P275/1.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P275,2,EcoSort 201-300/P275/2.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P275,3,EcoSort 201-300/P275/3.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P276,1,EcoSort 201-300/P276/1.jpg,Bag / Film,3,test,Auto-assigned
+P276,2,EcoSort 201-300/P276/2.jpg,Bag / Film,3,test,Auto-assigned
+P276,3,EcoSort 201-300/P276/3.jpg,Bag / Film,3,test,Auto-assigned
+P277,1,EcoSort 201-300/P277/1.jpg,Bag / Film,3.5,train,Auto-assigned
+P277,2,EcoSort 201-300/P277/2.jpg,Bag / Film,3.5,train,Auto-assigned
+P277,3,EcoSort 201-300/P277/3.jpg,Bag / Film,3.5,train,Auto-assigned
+P278,1,EcoSort 201-300/P278/1.jpg,Bag / Film,4,train,Auto-assigned
+P278,2,EcoSort 201-300/P278/2.jpg,Bag / Film,4,train,Auto-assigned
+P278,3,EcoSort 201-300/P278/3.jpg,Bag / Film,4,train,Auto-assigned
+P279,1,EcoSort 201-300/P279/1.jpg,Bag / Film,3,validation,Auto-assigned
+P279,2,EcoSort 201-300/P279/2.jpg,Bag / Film,3,validation,Auto-assigned
+P279,3,EcoSort 201-300/P279/3.jpg,Bag / Film,3,validation,Auto-assigned
+P280,1,EcoSort 201-300/P280/1.jpg,Bag / Film,5,train,Auto-assigned
+P280,2,EcoSort 201-300/P280/2.jpg,Bag / Film,5,train,Auto-assigned
+P280,3,EcoSort 201-300/P280/3.jpg,Bag / Film,5,train,Auto-assigned
+P281,1,EcoSort 201-300/P281/1.jpg,Wrapper / Flexible Packaging,1,train,Auto-assigned
+P281,2,EcoSort 201-300/P281/2.jpg,Wrapper / Flexible Packaging,1,train,Auto-assigned
+P281,3,EcoSort 201-300/P281/3.jpg,Wrapper / Flexible Packaging,1,train,Auto-assigned
+P282,1,EcoSort 201-300/P282/1.jpg,Wrapper / Flexible Packaging,2,test,Auto-assigned
+P282,2,EcoSort 201-300/P282/2.jpg,Wrapper / Flexible Packaging,2,test,Auto-assigned
+P282,3,EcoSort 201-300/P282/3.jpg,Wrapper / Flexible Packaging,2,test,Auto-assigned
+P283,1,EcoSort 201-300/P283/1.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P283,2,EcoSort 201-300/P283/2.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P283,3,EcoSort 201-300/P283/3.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P284,1,EcoSort 201-300/P284/1.jpg,Cap / Lid,2.5,test,Auto-assigned
+P284,2,EcoSort 201-300/P284/2.jpg,Cap / Lid,2.5,test,Auto-assigned
+P284,3,EcoSort 201-300/P284/3.jpg,Cap / Lid,2.5,test,Auto-assigned
+P285,1,EcoSort 201-300/P285/1.jpg,Straw / Utensil,1.5,train,Auto-assigned
+P285,2,EcoSort 201-300/P285/2.jpg,Straw / Utensil,1.5,train,Auto-assigned
+P285,3,EcoSort 201-300/P285/3.jpg,Straw / Utensil,1.5,train,Auto-assigned
+P286,1,EcoSort 201-300/P286/1.jpg,Straw / Utensil,1,test,Auto-assigned
+P286,2,EcoSort 201-300/P286/2.jpg,Straw / Utensil,1,test,Auto-assigned
+P286,3,EcoSort 201-300/P286/3.jpg,Straw / Utensil,1,test,Auto-assigned
+P287,1,EcoSort 201-300/P287/1.jpg,Straw / Utensil,1.5,train,Auto-assigned
+P287,2,EcoSort 201-300/P287/2.jpg,Straw / Utensil,1.5,train,Auto-assigned
+P287,3,EcoSort 201-300/P287/3.jpg,Straw / Utensil,1.5,train,Auto-assigned
+P288,1,EcoSort 201-300/P288/1.jpg,Straw / Utensil,1,train,Auto-assigned
+P288,2,EcoSort 201-300/P288/2.jpg,Straw / Utensil,1,train,Auto-assigned
+P288,3,EcoSort 201-300/P288/3.jpg,Straw / Utensil,1,train,Auto-assigned
+P289,1,EcoSort 201-300/P289/1.jpg,Bag / Film,4.5,train,Manually verified
+P289,2,EcoSort 201-300/P289/2.jpg,Bag / Film,4.5,train,Manually verified
+P289,3,EcoSort 201-300/P289/3.jpg,Bag / Film,4.5,train,Manually verified
+P290,1,EcoSort 201-300/P290/1.jpg,Cup,5,train,Auto-assigned
+P290,2,EcoSort 201-300/P290/2.jpg,Cup,5,train,Auto-assigned
+P290,3,EcoSort 201-300/P290/3.jpg,Cup,5,train,Auto-assigned
+P291,1,EcoSort 201-300/P291/1.jpg,Straw / Utensil,1,train,Auto-assigned
+P291,2,EcoSort 201-300/P291/2.jpg,Straw / Utensil,1,train,Auto-assigned
+P291,3,EcoSort 201-300/P291/3.jpg,Straw / Utensil,1,train,Auto-assigned
+P292,1,EcoSort 201-300/P292/1.jpg,Rigid Part / Fragment,2.5,train,Auto-assigned
+P292,2,EcoSort 201-300/P292/2.jpg,Rigid Part / Fragment,2.5,train,Auto-assigned
+P292,3,EcoSort 201-300/P292/3.jpg,Rigid Part / Fragment,2.5,train,Auto-assigned
+P293,1,EcoSort 201-300/P293/1.jpg,Cup,4,train,Auto-assigned
+P293,2,EcoSort 201-300/P293/2.jpg,Cup,4,train,Auto-assigned
+P293,3,EcoSort 201-300/P293/3.jpg,Cup,4,train,Auto-assigned
+P294,1,EcoSort 201-300/P294/1.jpg,Rigid Part / Fragment,2,train,Auto-assigned
+P294,2,EcoSort 201-300/P294/2.jpg,Rigid Part / Fragment,2,train,Auto-assigned
+P294,3,EcoSort 201-300/P294/3.jpg,Rigid Part / Fragment,2,train,Auto-assigned
+P295,1,EcoSort 201-300/P295/1.jpg,Bag / Film,3,train,Auto-assigned
+P295,2,EcoSort 201-300/P295/2.jpg,Bag / Film,3,train,Auto-assigned
+P295,3,EcoSort 201-300/P295/3.jpg,Bag / Film,3,train,Auto-assigned
+P296,1,EcoSort 201-300/P296/1.jpg,Cap / Lid,3,test,Auto-assigned
+P296,2,EcoSort 201-300/P296/2.jpg,Cap / Lid,3,test,Auto-assigned
+P296,3,EcoSort 201-300/P296/3.jpg,Cap / Lid,3,test,Auto-assigned
+P297,1,EcoSort 201-300/P297/1.jpg,Cap / Lid,3,train,Auto-assigned
+P297,2,EcoSort 201-300/P297/2.jpg,Cap / Lid,3,train,Auto-assigned
+P297,3,EcoSort 201-300/P297/3.jpg,Cap / Lid,3,train,Auto-assigned
+P298,1,EcoSort 201-300/P298/1.jpg,Straw / Utensil,1.5,train,Auto-assigned
+P298,2,EcoSort 201-300/P298/2.jpg,Straw / Utensil,1.5,train,Auto-assigned
+P298,3,EcoSort 201-300/P298/3.jpg,Straw / Utensil,1.5,train,Auto-assigned
+P299,1,EcoSort 201-300/P299/1.jpg,Cup,5,train,Auto-assigned
+P299,2,EcoSort 201-300/P299/2.jpg,Cup,5,train,Auto-assigned
+P299,3,EcoSort 201-300/P299/3.jpg,Cup,5,train,Auto-assigned
+P300,1,EcoSort 201-300/P300/1.jpg,Wrapper / Flexible Packaging,4.5,train,Manually verified
+P300,2,EcoSort 201-300/P300/2.jpg,Wrapper / Flexible Packaging,4.5,train,Manually verified
+P300,3,EcoSort 201-300/P300/3.jpg,Wrapper / Flexible Packaging,4.5,train,Manually verified
+P301,1,EcoSort 301-400/P301/1.jpg,Cap / Lid,3,train,Auto-assigned
+P301,2,EcoSort 301-400/P301/2.jpg,Cap / Lid,3,train,Auto-assigned
+P301,3,EcoSort 301-400/P301/3.jpg,Cap / Lid,3,train,Auto-assigned
+P302,1,EcoSort 301-400/P302/1.jpg,Wrapper / Flexible Packaging,2,validation,Auto-assigned
+P302,2,EcoSort 301-400/P302/2.jpg,Wrapper / Flexible Packaging,2,validation,Auto-assigned
+P302,3,EcoSort 301-400/P302/3.jpg,Wrapper / Flexible Packaging,2,validation,Auto-assigned
+P303,1,EcoSort 301-400/P303/1.jpg,Container / Tray,2.5,test,Auto-assigned
+P303,2,EcoSort 301-400/P303/2.jpg,Container / Tray,2.5,test,Auto-assigned
+P303,3,EcoSort 301-400/P303/3.jpg,Container / Tray,2.5,test,Auto-assigned
+P304,1,EcoSort 301-400/P304/1.jpg,Wrapper / Flexible Packaging,15,train,Manually verified
+P304,2,EcoSort 301-400/P304/2.jpg,Wrapper / Flexible Packaging,15,train,Manually verified
+P304,3,EcoSort 301-400/P304/3.jpg,Wrapper / Flexible Packaging,15,train,Manually verified
+P305,1,EcoSort 301-400/P305/1.jpg,Wrapper / Flexible Packaging,1,train,Auto-assigned
+P305,2,EcoSort 301-400/P305/2.jpg,Wrapper / Flexible Packaging,1,train,Auto-assigned
+P305,3,EcoSort 301-400/P305/3.jpg,Wrapper / Flexible Packaging,1,train,Auto-assigned
+P306,1,EcoSort 301-400/P306/1.jpg,Straw / Utensil,1.5,train,Auto-assigned
+P306,2,EcoSort 301-400/P306/2.jpg,Straw / Utensil,1.5,train,Auto-assigned
+P306,3,EcoSort 301-400/P306/3.jpg,Straw / Utensil,1.5,train,Auto-assigned
+P307,1,EcoSort 301-400/P307/1.jpg,Straw / Utensil,3,train,Auto-assigned
+P307,2,EcoSort 301-400/P307/2.jpg,Straw / Utensil,3,train,Auto-assigned
+P307,3,EcoSort 301-400/P307/3.jpg,Straw / Utensil,3,train,Auto-assigned
+P308,1,EcoSort 301-400/P308/1.jpg,Wrapper / Flexible Packaging,1,validation,Auto-assigned
+P308,2,EcoSort 301-400/P308/2.jpg,Wrapper / Flexible Packaging,1,validation,Auto-assigned
+P308,3,EcoSort 301-400/P308/3.jpg,Wrapper / Flexible Packaging,1,validation,Auto-assigned
+P309,1,EcoSort 301-400/P309/1.jpg,Wrapper / Flexible Packaging,2.5,test,Auto-assigned
+P309,2,EcoSort 301-400/P309/2.jpg,Wrapper / Flexible Packaging,2.5,test,Auto-assigned
+P309,3,EcoSort 301-400/P309/3.jpg,Wrapper / Flexible Packaging,2.5,test,Auto-assigned
+P310,1,EcoSort 301-400/P310/1.jpg,Cap / Lid,0.5,train,Auto-assigned
+P310,2,EcoSort 301-400/P310/2.jpg,Cap / Lid,0.5,train,Auto-assigned
+P310,3,EcoSort 301-400/P310/3.jpg,Cap / Lid,0.5,train,Auto-assigned
+P311,1,EcoSort 301-400/P311/1.jpg,Bag / Film,3,test,Auto-assigned
+P311,2,EcoSort 301-400/P311/2.jpg,Bag / Film,3,test,Auto-assigned
+P311,3,EcoSort 301-400/P311/3.jpg,Bag / Film,3,test,Auto-assigned
+P312,1,EcoSort 301-400/P312/1.jpg,Cup,5,train,Auto-assigned
+P312,2,EcoSort 301-400/P312/2.jpg,Cup,5,train,Auto-assigned
+P312,3,EcoSort 301-400/P312/3.jpg,Cup,5,train,Auto-assigned
+P313,1,EcoSort 301-400/P313/1.jpg,Cup,5,test,Auto-assigned
+P313,2,EcoSort 301-400/P313/2.jpg,Cup,5,test,Auto-assigned
+P313,3,EcoSort 301-400/P313/3.jpg,Cup,5,test,Auto-assigned
+P314,1,EcoSort 301-400/P314/1.jpg,Cap / Lid,3,train,Auto-assigned
+P314,2,EcoSort 301-400/P314/2.jpg,Cap / Lid,3,train,Auto-assigned
+P314,3,EcoSort 301-400/P314/3.jpg,Cap / Lid,3,train,Auto-assigned
+P315,1,EcoSort 301-400/P315/1.jpg,Straw / Utensil,1.5,validation,Auto-assigned
+P315,2,EcoSort 301-400/P315/2.jpg,Straw / Utensil,1.5,validation,Auto-assigned
+P315,3,EcoSort 301-400/P315/3.jpg,Straw / Utensil,1.5,validation,Auto-assigned
+P316,1,EcoSort 301-400/P316/1.jpg,Cap / Lid,3,test,Auto-assigned
+P316,2,EcoSort 301-400/P316/2.jpg,Cap / Lid,3,test,Auto-assigned
+P316,3,EcoSort 301-400/P316/3.jpg,Cap / Lid,3,test,Auto-assigned
+P317,1,EcoSort 301-400/P317/1.jpg,Straw / Utensil,1.5,train,Auto-assigned
+P317,2,EcoSort 301-400/P317/2.jpg,Straw / Utensil,1.5,train,Auto-assigned
+P317,3,EcoSort 301-400/P317/3.jpg,Straw / Utensil,1.5,train,Auto-assigned
+P318,1,EcoSort 301-400/P318/1.jpg,Bag / Film,4,train,Auto-assigned
+P318,2,EcoSort 301-400/P318/2.jpg,Bag / Film,4,train,Auto-assigned
+P318,3,EcoSort 301-400/P318/3.jpg,Bag / Film,4,train,Auto-assigned
+P319,1,EcoSort 301-400/P319/1.jpg,Cap / Lid,6,train,Auto-assigned
+P319,2,EcoSort 301-400/P319/2.jpg,Cap / Lid,6,train,Auto-assigned
+P319,3,EcoSort 301-400/P319/3.jpg,Cap / Lid,6,train,Auto-assigned
+P320,1,EcoSort 301-400/P320/1.jpg,Cap / Lid,8,train,Auto-assigned
+P320,2,EcoSort 301-400/P320/2.jpg,Cap / Lid,8,train,Auto-assigned
+P320,3,EcoSort 301-400/P320/3.jpg,Cap / Lid,8,train,Auto-assigned
+P321,1,EcoSort 301-400/P321/1.jpg,Wrapper / Flexible Packaging,2.5,test,Auto-assigned
+P321,2,EcoSort 301-400/P321/2.jpg,Wrapper / Flexible Packaging,2.5,test,Auto-assigned
+P321,3,EcoSort 301-400/P321/3.jpg,Wrapper / Flexible Packaging,2.5,test,Auto-assigned
+P322,1,EcoSort 301-400/P322/1.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P322,2,EcoSort 301-400/P322/2.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P322,3,EcoSort 301-400/P322/3.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P323,1,EcoSort 301-400/P323/1.jpg,Rigid Part / Fragment,5,train,Auto-assigned
+P323,2,EcoSort 301-400/P323/2.jpg,Rigid Part / Fragment,5,train,Auto-assigned
+P323,3,EcoSort 301-400/P323/3.jpg,Rigid Part / Fragment,5,train,Auto-assigned
+P324,1,EcoSort 301-400/P324/1.jpg,Wrapper / Flexible Packaging,3.5,train,Auto-assigned
+P324,2,EcoSort 301-400/P324/2.jpg,Wrapper / Flexible Packaging,3.5,train,Auto-assigned
+P324,3,EcoSort 301-400/P324/3.jpg,Wrapper / Flexible Packaging,3.5,train,Auto-assigned
+P325,1,EcoSort 301-400/P325/1.jpg,Cup,2.5,train,Manually verified
+P325,2,EcoSort 301-400/P325/2.jpg,Cup,2.5,train,Manually verified
+P325,3,EcoSort 301-400/P325/3.jpg,Cup,2.5,train,Manually verified
+P326,1,EcoSort 301-400/P326/1.jpg,Wrapper / Flexible Packaging,4,train,Auto-assigned
+P326,2,EcoSort 301-400/P326/2.jpg,Wrapper / Flexible Packaging,4,train,Auto-assigned
+P326,3,EcoSort 301-400/P326/3.jpg,Wrapper / Flexible Packaging,4,train,Auto-assigned
+P327,1,EcoSort 301-400/P327/1.jpg,Bag / Film,9.5,train,Manually verified
+P327,2,EcoSort 301-400/P327/2.jpg,Bag / Film,9.5,train,Manually verified
+P327,3,EcoSort 301-400/P327/3.jpg,Bag / Film,9.5,train,Manually verified
+P328,1,EcoSort 301-400/P328/1.jpg,Bottle,25,test,Auto-assigned
+P328,2,EcoSort 301-400/P328/2.jpg,Bottle,25,test,Auto-assigned
+P328,3,EcoSort 301-400/P328/3.jpg,Bottle,25,test,Auto-assigned
+P329,1,EcoSort 301-400/P329/1.jpg,Cup,5,test,Auto-assigned
+P329,2,EcoSort 301-400/P329/2.jpg,Cup,5,test,Auto-assigned
+P329,3,EcoSort 301-400/P329/3.jpg,Cup,5,test,Auto-assigned
+P330,1,EcoSort 301-400/P330/1.jpg,Container / Tray,18,train,Auto-assigned
+P330,2,EcoSort 301-400/P330/2.jpg,Container / Tray,18,train,Auto-assigned
+P330,3,EcoSort 301-400/P330/3.jpg,Container / Tray,18,train,Auto-assigned
+P331,1,EcoSort 301-400/P331/1.jpg,Wrapper / Flexible Packaging,15,validation,Auto-assigned
+P331,2,EcoSort 301-400/P331/2.jpg,Wrapper / Flexible Packaging,15,validation,Auto-assigned
+P331,3,EcoSort 301-400/P331/3.jpg,Wrapper / Flexible Packaging,15,validation,Auto-assigned
+P332,1,EcoSort 301-400/P332/1.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P332,2,EcoSort 301-400/P332/2.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P332,3,EcoSort 301-400/P332/3.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P333,1,EcoSort 301-400/P333/1.jpg,Wrapper / Flexible Packaging,2,validation,Auto-assigned
+P333,2,EcoSort 301-400/P333/2.jpg,Wrapper / Flexible Packaging,2,validation,Auto-assigned
+P333,3,EcoSort 301-400/P333/3.jpg,Wrapper / Flexible Packaging,2,validation,Auto-assigned
+P334,1,EcoSort 301-400/P334/1.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P334,2,EcoSort 301-400/P334/2.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P334,3,EcoSort 301-400/P334/3.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P335,1,EcoSort 301-400/P335/1.jpg,Bag / Film,3,train,Auto-assigned
+P335,2,EcoSort 301-400/P335/2.jpg,Bag / Film,3,train,Auto-assigned
+P335,3,EcoSort 301-400/P335/3.jpg,Bag / Film,3,train,Auto-assigned
+P336,1,EcoSort 301-400/P336/1.jpg,Rigid Part / Fragment,4,train,Auto-assigned
+P336,2,EcoSort 301-400/P336/2.jpg,Rigid Part / Fragment,4,train,Auto-assigned
+P336,3,EcoSort 301-400/P336/3.jpg,Rigid Part / Fragment,4,train,Auto-assigned
+P337,1,EcoSort 301-400/P337/1.jpg,Bag / Film,3,train,Auto-assigned
+P337,2,EcoSort 301-400/P337/2.jpg,Bag / Film,3,train,Auto-assigned
+P337,3,EcoSort 301-400/P337/3.jpg,Bag / Film,3,train,Auto-assigned
+P338,1,EcoSort 301-400/P338/1.jpg,Wrapper / Flexible Packaging,2.5,train,Manually verified
+P338,2,EcoSort 301-400/P338/2.jpg,Wrapper / Flexible Packaging,2.5,train,Manually verified
+P338,3,EcoSort 301-400/P338/3.jpg,Wrapper / Flexible Packaging,2.5,train,Manually verified
+P339,1,EcoSort 301-400/P339/1.jpg,Wrapper / Flexible Packaging,4,train,Auto-assigned
+P339,2,EcoSort 301-400/P339/2.jpg,Wrapper / Flexible Packaging,4,train,Auto-assigned
+P339,3,EcoSort 301-400/P339/3.jpg,Wrapper / Flexible Packaging,4,train,Auto-assigned
+P340,1,EcoSort 301-400/P340/1.jpg,Cup,5,test,Auto-assigned
+P340,2,EcoSort 301-400/P340/2.jpg,Cup,5,test,Auto-assigned
+P340,3,EcoSort 301-400/P340/3.jpg,Cup,5,test,Auto-assigned
+P341,1,EcoSort 301-400/P341/1.jpg,Rigid Part / Fragment,3.5,train,Manually verified
+P341,2,EcoSort 301-400/P341/2.jpg,Rigid Part / Fragment,3.5,train,Manually verified
+P341,3,EcoSort 301-400/P341/3.jpg,Rigid Part / Fragment,3.5,train,Manually verified
+P342,1,EcoSort 301-400/P342/1.jpg,Container / Tray,10,validation,Auto-assigned
+P342,2,EcoSort 301-400/P342/2.jpg,Container / Tray,10,validation,Auto-assigned
+P342,3,EcoSort 301-400/P342/3.jpg,Container / Tray,10,validation,Auto-assigned
+P343,1,EcoSort 301-400/P343/1.jpg,Wrapper / Flexible Packaging,2,validation,Auto-assigned
+P343,2,EcoSort 301-400/P343/2.jpg,Wrapper / Flexible Packaging,2,validation,Auto-assigned
+P343,3,EcoSort 301-400/P343/3.jpg,Wrapper / Flexible Packaging,2,validation,Auto-assigned
+P344,1,EcoSort 301-400/P344/1.jpg,Cup,2,validation,Auto-assigned
+P344,2,EcoSort 301-400/P344/2.jpg,Cup,2,validation,Auto-assigned
+P344,3,EcoSort 301-400/P344/3.jpg,Cup,2,validation,Auto-assigned
+P345,1,EcoSort 301-400/P345/1.jpg,Cup,5,train,Auto-assigned
+P345,2,EcoSort 301-400/P345/2.jpg,Cup,5,train,Auto-assigned
+P345,3,EcoSort 301-400/P345/3.jpg,Cup,5,train,Auto-assigned
+P346,1,EcoSort 301-400/P346/1.jpg,Wrapper / Flexible Packaging,2.5,validation,Auto-assigned
+P346,2,EcoSort 301-400/P346/2.jpg,Wrapper / Flexible Packaging,2.5,validation,Auto-assigned
+P346,3,EcoSort 301-400/P346/3.jpg,Wrapper / Flexible Packaging,2.5,validation,Auto-assigned
+P347,1,EcoSort 301-400/P347/1.jpg,Cap / Lid,8,validation,Manually verified
+P347,2,EcoSort 301-400/P347/2.jpg,Cap / Lid,8,validation,Manually verified
+P347,3,EcoSort 301-400/P347/3.jpg,Cap / Lid,8,validation,Manually verified
+P348,1,EcoSort 301-400/P348/1.jpg,Wrapper / Flexible Packaging,3,validation,Auto-assigned
+P348,2,EcoSort 301-400/P348/2.jpg,Wrapper / Flexible Packaging,3,validation,Auto-assigned
+P348,3,EcoSort 301-400/P348/3.jpg,Wrapper / Flexible Packaging,3,validation,Auto-assigned
+P349,1,EcoSort 301-400/P349/1.jpg,Bag / Film,3,validation,Auto-assigned
+P349,2,EcoSort 301-400/P349/2.jpg,Bag / Film,3,validation,Auto-assigned
+P349,3,EcoSort 301-400/P349/3.jpg,Bag / Film,3,validation,Auto-assigned
+P350,1,EcoSort 301-400/P350/1.jpg,Bag / Film,4,train,Auto-assigned
+P350,2,EcoSort 301-400/P350/2.jpg,Bag / Film,4,train,Auto-assigned
+P350,3,EcoSort 301-400/P350/3.jpg,Bag / Film,4,train,Auto-assigned
+P351,1,EcoSort 301-400/P351/1.jpg,Straw / Utensil,1.5,validation,Auto-assigned
+P351,2,EcoSort 301-400/P351/2.jpg,Straw / Utensil,1.5,validation,Auto-assigned
+P351,3,EcoSort 301-400/P351/3.jpg,Straw / Utensil,1.5,validation,Auto-assigned
+P352,1,EcoSort 301-400/P352/1.jpg,Container / Tray,8,train,Auto-assigned
+P352,2,EcoSort 301-400/P352/2.jpg,Container / Tray,8,train,Auto-assigned
+P352,3,EcoSort 301-400/P352/3.jpg,Container / Tray,8,train,Auto-assigned
+P353,1,EcoSort 301-400/P353/1.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P353,2,EcoSort 301-400/P353/2.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P353,3,EcoSort 301-400/P353/3.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P354,1,EcoSort 301-400/P354/1.jpg,Cup,10,train,Auto-assigned
+P354,2,EcoSort 301-400/P354/2.jpg,Cup,10,train,Auto-assigned
+P354,3,EcoSort 301-400/P354/3.jpg,Cup,10,train,Auto-assigned
+P355,1,EcoSort 301-400/P355/1.jpg,Cap / Lid,3,test,Auto-assigned
+P355,2,EcoSort 301-400/P355/2.jpg,Cap / Lid,3,test,Auto-assigned
+P355,3,EcoSort 301-400/P355/3.jpg,Cap / Lid,3,test,Auto-assigned
+P356,1,EcoSort 301-400/P356/1.jpg,Bag / Film,4,train,Auto-assigned
+P356,2,EcoSort 301-400/P356/2.jpg,Bag / Film,4,train,Auto-assigned
+P356,3,EcoSort 301-400/P356/3.jpg,Bag / Film,4,train,Auto-assigned
+P357,1,EcoSort 301-400/P357/1.jpg,Wrapper / Flexible Packaging,2.5,test,Auto-assigned
+P357,2,EcoSort 301-400/P357/2.jpg,Wrapper / Flexible Packaging,2.5,test,Auto-assigned
+P357,3,EcoSort 301-400/P357/3.jpg,Wrapper / Flexible Packaging,2.5,test,Auto-assigned
+P358,1,EcoSort 301-400/P358/1.jpg,Wrapper / Flexible Packaging,2,validation,Auto-assigned
+P358,2,EcoSort 301-400/P358/2.jpg,Wrapper / Flexible Packaging,2,validation,Auto-assigned
+P358,3,EcoSort 301-400/P358/3.jpg,Wrapper / Flexible Packaging,2,validation,Auto-assigned
+P359,1,EcoSort 301-400/P359/1.jpg,Straw / Utensil,2.5,train,Auto-assigned
+P359,2,EcoSort 301-400/P359/2.jpg,Straw / Utensil,2.5,train,Auto-assigned
+P359,3,EcoSort 301-400/P359/3.jpg,Straw / Utensil,2.5,train,Auto-assigned
+P360,1,EcoSort 301-400/P360/1.jpg,Bottle,22,test,Auto-assigned
+P360,2,EcoSort 301-400/P360/2.jpg,Bottle,22,test,Auto-assigned
+P360,3,EcoSort 301-400/P360/3.jpg,Bottle,22,test,Auto-assigned
+P361,1,EcoSort 301-400/P361/1.jpg,Cap / Lid,2.2,train,Auto-assigned
+P361,2,EcoSort 301-400/P361/2.jpg,Cap / Lid,2.2,train,Auto-assigned
+P361,3,EcoSort 301-400/P361/3.jpg,Cap / Lid,2.2,train,Auto-assigned
+P362,1,EcoSort 301-400/P362/1.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P362,2,EcoSort 301-400/P362/2.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P362,3,EcoSort 301-400/P362/3.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P363,1,EcoSort 301-400/P363/1.jpg,Straw / Utensil,1,train,Auto-assigned
+P363,2,EcoSort 301-400/P363/2.jpg,Straw / Utensil,1,train,Auto-assigned
+P363,3,EcoSort 301-400/P363/3.jpg,Straw / Utensil,1,train,Auto-assigned
+P364,1,EcoSort 301-400/P364/1.jpg,Cup,4.5,train,Auto-assigned
+P364,2,EcoSort 301-400/P364/2.jpg,Cup,4.5,train,Auto-assigned
+P364,3,EcoSort 301-400/P364/3.jpg,Cup,4.5,train,Auto-assigned
+P365,1,EcoSort 301-400/P365/1.jpg,Bag / Film,3.5,train,Auto-assigned
+P365,2,EcoSort 301-400/P365/2.jpg,Bag / Film,3.5,train,Auto-assigned
+P365,3,EcoSort 301-400/P365/3.jpg,Bag / Film,3.5,train,Auto-assigned
+P366,1,EcoSort 301-400/P366/1.jpg,Wrapper / Flexible Packaging,8.5,train,Auto-assigned
+P366,2,EcoSort 301-400/P366/2.jpg,Wrapper / Flexible Packaging,8.5,train,Auto-assigned
+P366,3,EcoSort 301-400/P366/3.jpg,Wrapper / Flexible Packaging,8.5,train,Auto-assigned
+P367,1,EcoSort 301-400/P367/1.jpg,Cup,4.2,train,Auto-assigned
+P367,2,EcoSort 301-400/P367/2.jpg,Cup,4.2,train,Auto-assigned
+P367,3,EcoSort 301-400/P367/3.jpg,Cup,4.2,train,Auto-assigned
+P368,1,EcoSort 301-400/P368/1.jpg,Wrapper / Flexible Packaging,3.2,test,Auto-assigned
+P368,2,EcoSort 301-400/P368/2.jpg,Wrapper / Flexible Packaging,3.2,test,Auto-assigned
+P368,3,EcoSort 301-400/P368/3.jpg,Wrapper / Flexible Packaging,3.2,test,Auto-assigned
+P369,1,EcoSort 301-400/P369/1.jpg,Bottle,38.5,test,Auto-assigned
+P369,2,EcoSort 301-400/P369/2.jpg,Bottle,38.5,test,Auto-assigned
+P369,3,EcoSort 301-400/P369/3.jpg,Bottle,38.5,test,Auto-assigned
+P370,1,EcoSort 301-400/P370/1.jpg,Cap / Lid,2.2,test,Auto-assigned
+P370,2,EcoSort 301-400/P370/2.jpg,Cap / Lid,2.2,test,Auto-assigned
+P370,3,EcoSort 301-400/P370/3.jpg,Cap / Lid,2.2,test,Auto-assigned
+P371,1,EcoSort 301-400/P371/1.jpg,Wrapper / Flexible Packaging,1.6,train,Auto-assigned
+P371,2,EcoSort 301-400/P371/2.jpg,Wrapper / Flexible Packaging,1.6,train,Auto-assigned
+P371,3,EcoSort 301-400/P371/3.jpg,Wrapper / Flexible Packaging,1.6,train,Auto-assigned
+P372,1,EcoSort 301-400/P372/1.jpg,Cap / Lid,2.1,train,Auto-assigned
+P372,2,EcoSort 301-400/P372/2.jpg,Cap / Lid,2.1,train,Auto-assigned
+P372,3,EcoSort 301-400/P372/3.jpg,Cap / Lid,2.1,train,Auto-assigned
+P373,1,EcoSort 301-400/P373/1.jpg,Cap / Lid,2.3,train,Auto-assigned
+P373,2,EcoSort 301-400/P373/2.jpg,Cap / Lid,2.3,train,Auto-assigned
+P373,3,EcoSort 301-400/P373/3.jpg,Cap / Lid,2.3,train,Auto-assigned
+P374,1,EcoSort 301-400/P374/1.jpg,Cap / Lid,3.4,validation,Auto-assigned
+P374,2,EcoSort 301-400/P374/2.jpg,Cap / Lid,3.4,validation,Auto-assigned
+P374,3,EcoSort 301-400/P374/3.jpg,Cap / Lid,3.4,validation,Auto-assigned
+P375,1,EcoSort 301-400/P375/1.jpg,Container / Tray,22,train,Auto-assigned
+P375,2,EcoSort 301-400/P375/2.jpg,Container / Tray,22,train,Auto-assigned
+P375,3,EcoSort 301-400/P375/3.jpg,Container / Tray,22,train,Auto-assigned
+P376,1,EcoSort 301-400/P376/1.jpg,Rigid Part / Fragment,2.5,train,Auto-assigned
+P376,2,EcoSort 301-400/P376/2.jpg,Rigid Part / Fragment,2.5,train,Auto-assigned
+P376,3,EcoSort 301-400/P376/3.jpg,Rigid Part / Fragment,2.5,train,Auto-assigned
+P377,1,EcoSort 301-400/P377/1.jpg,Wrapper / Flexible Packaging,2.8,validation,Auto-assigned
+P377,2,EcoSort 301-400/P377/2.jpg,Wrapper / Flexible Packaging,2.8,validation,Auto-assigned
+P377,3,EcoSort 301-400/P377/3.jpg,Wrapper / Flexible Packaging,2.8,validation,Auto-assigned
+P378,1,EcoSort 301-400/P378/1.jpg,Wrapper / Flexible Packaging,2.6,train,Auto-assigned
+P378,2,EcoSort 301-400/P378/2.jpg,Wrapper / Flexible Packaging,2.6,train,Auto-assigned
+P378,3,EcoSort 301-400/P378/3.jpg,Wrapper / Flexible Packaging,2.6,train,Auto-assigned
+P379,1,EcoSort 301-400/P379/1.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P379,2,EcoSort 301-400/P379/2.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P379,3,EcoSort 301-400/P379/3.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P380,1,EcoSort 301-400/P380/1.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P380,2,EcoSort 301-400/P380/2.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P380,3,EcoSort 301-400/P380/3.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P381,1,EcoSort 301-400/P381/1.jpg,Wrapper / Flexible Packaging,1.5,validation,Auto-assigned
+P381,2,EcoSort 301-400/P381/2.jpg,Wrapper / Flexible Packaging,1.5,validation,Auto-assigned
+P381,3,EcoSort 301-400/P381/3.jpg,Wrapper / Flexible Packaging,1.5,validation,Auto-assigned
+P382,1,EcoSort 301-400/P382/1.jpg,Bag / Film,4,train,Auto-assigned
+P382,2,EcoSort 301-400/P382/2.jpg,Bag / Film,4,train,Auto-assigned
+P382,3,EcoSort 301-400/P382/3.jpg,Bag / Film,4,train,Auto-assigned
+P383,1,EcoSort 301-400/P383/1.jpg,Rigid Part / Fragment,5,train,Auto-assigned
+P383,2,EcoSort 301-400/P383/2.jpg,Rigid Part / Fragment,5,train,Auto-assigned
+P383,3,EcoSort 301-400/P383/3.jpg,Rigid Part / Fragment,5,train,Auto-assigned
+P384,1,EcoSort 301-400/P384/1.jpg,Wrapper / Flexible Packaging,1.8,train,Auto-assigned
+P384,2,EcoSort 301-400/P384/2.jpg,Wrapper / Flexible Packaging,1.8,train,Auto-assigned
+P384,3,EcoSort 301-400/P384/3.jpg,Wrapper / Flexible Packaging,1.8,train,Auto-assigned
+P385,1,EcoSort 301-400/P385/1.jpg,Wrapper / Flexible Packaging,1.2,train,Auto-assigned
+P385,2,EcoSort 301-400/P385/2.jpg,Wrapper / Flexible Packaging,1.2,train,Auto-assigned
+P385,3,EcoSort 301-400/P385/3.jpg,Wrapper / Flexible Packaging,1.2,train,Auto-assigned
+P386,1,EcoSort 301-400/P386/1.jpg,Straw / Utensil,3,train,Auto-assigned
+P386,2,EcoSort 301-400/P386/2.jpg,Straw / Utensil,3,train,Auto-assigned
+P386,3,EcoSort 301-400/P386/3.jpg,Straw / Utensil,3,train,Auto-assigned
+P387,1,EcoSort 301-400/P387/1.jpg,Cap / Lid,3.2,validation,Auto-assigned
+P387,2,EcoSort 301-400/P387/2.jpg,Cap / Lid,3.2,validation,Auto-assigned
+P387,3,EcoSort 301-400/P387/3.jpg,Cap / Lid,3.2,validation,Auto-assigned
+P388,1,EcoSort 301-400/P388/1.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P388,2,EcoSort 301-400/P388/2.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P388,3,EcoSort 301-400/P388/3.jpg,Wrapper / Flexible Packaging,2,train,Auto-assigned
+P389,1,EcoSort 301-400/P389/1.jpg,Bag / Film,3.5,test,Auto-assigned
+P389,2,EcoSort 301-400/P389/2.jpg,Bag / Film,3.5,test,Auto-assigned
+P389,3,EcoSort 301-400/P389/3.jpg,Bag / Film,3.5,test,Auto-assigned
+P390,1,EcoSort 301-400/P390/1.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P390,2,EcoSort 301-400/P390/2.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P390,3,EcoSort 301-400/P390/3.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P391,1,EcoSort 301-400/P391/1.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P391,2,EcoSort 301-400/P391/2.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P391,3,EcoSort 301-400/P391/3.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P392,1,EcoSort 301-400/P392/1.jpg,Container / Tray,15,train,Auto-assigned
+P392,2,EcoSort 301-400/P392/2.jpg,Container / Tray,15,train,Auto-assigned
+P392,3,EcoSort 301-400/P392/3.jpg,Container / Tray,15,train,Auto-assigned
+P393,1,EcoSort 301-400/P393/1.jpg,Bag / Film,4.5,validation,Auto-assigned
+P393,2,EcoSort 301-400/P393/2.jpg,Bag / Film,4.5,validation,Auto-assigned
+P393,3,EcoSort 301-400/P393/3.jpg,Bag / Film,4.5,validation,Auto-assigned
+P394,1,EcoSort 301-400/P394/1.jpg,Wrapper / Flexible Packaging,9,train,Auto-assigned
+P394,2,EcoSort 301-400/P394/2.jpg,Wrapper / Flexible Packaging,9,train,Auto-assigned
+P394,3,EcoSort 301-400/P394/3.jpg,Wrapper / Flexible Packaging,9,train,Auto-assigned
+P395,1,EcoSort 301-400/P395/1.jpg,Wrapper / Flexible Packaging,1,train,Auto-assigned
+P395,2,EcoSort 301-400/P395/2.jpg,Wrapper / Flexible Packaging,1,train,Auto-assigned
+P395,3,EcoSort 301-400/P395/3.jpg,Wrapper / Flexible Packaging,1,train,Auto-assigned
+P396,1,EcoSort 301-400/P396/1.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P396,2,EcoSort 301-400/P396/2.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P396,3,EcoSort 301-400/P396/3.jpg,Wrapper / Flexible Packaging,2.8,train,Auto-assigned
+P397,1,EcoSort 301-400/P397/1.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P397,2,EcoSort 301-400/P397/2.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P397,3,EcoSort 301-400/P397/3.jpg,Wrapper / Flexible Packaging,1.5,train,Auto-assigned
+P398,1,EcoSort 301-400/P398/1.jpg,Wrapper / Flexible Packaging,3.5,train,Auto-assigned
+P398,2,EcoSort 301-400/P398/2.jpg,Wrapper / Flexible Packaging,3.5,train,Auto-assigned
+P398,3,EcoSort 301-400/P398/3.jpg,Wrapper / Flexible Packaging,3.5,train,Auto-assigned
+P399,1,EcoSort 301-400/P399/1.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P399,2,EcoSort 301-400/P399/2.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P399,3,EcoSort 301-400/P399/3.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P400,1,EcoSort 301-400/P400/1.jpg,Cup,5,validation,Auto-assigned
+P400,2,EcoSort 301-400/P400/2.jpg,Cup,5,validation,Auto-assigned
+P400,3,EcoSort 301-400/P400/3.jpg,Cup,5,validation,Auto-assigned
+P401,1,EcoSort 401-450/P401/1.jpg,Straw / Utensil,20,test,Manually verified
+P401,2,EcoSort 401-450/P401/2.jpg,Straw / Utensil,20,test,Manually verified
+P401,3,EcoSort 401-450/P401/3.jpg,Straw / Utensil,20,test,Manually verified
+P402,1,EcoSort 401-450/P402/1.jpg,Bottle,22,train,Manually verified
+P402,2,EcoSort 401-450/P402/2.jpg,Bottle,22,train,Manually verified
+P402,3,EcoSort 401-450/P402/3.jpg,Bottle,22,train,Manually verified
+P403,1,EcoSort 401-450/P403/1.jpg,Cap / Lid,2.5,train,Auto-assigned
+P403,2,EcoSort 401-450/P403/2.jpg,Cap / Lid,2.5,train,Auto-assigned
+P403,3,EcoSort 401-450/P403/3.jpg,Cap / Lid,2.5,train,Auto-assigned
+P404,1,EcoSort 401-450/P404/1.jpg,Cap / Lid,2.5,validation,Auto-assigned
+P404,2,EcoSort 401-450/P404/2.jpg,Cap / Lid,2.5,validation,Auto-assigned
+P404,3,EcoSort 401-450/P404/3.jpg,Cap / Lid,2.5,validation,Auto-assigned
+P405,1,EcoSort 401-450/P405/1.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P405,2,EcoSort 401-450/P405/2.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P405,3,EcoSort 401-450/P405/3.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P406,1,EcoSort 401-450/P406/1.jpg,Bag / Film,3.5,train,Auto-assigned
+P406,2,EcoSort 401-450/P406/2.jpg,Bag / Film,3.5,train,Auto-assigned
+P406,3,EcoSort 401-450/P406/3.jpg,Bag / Film,3.5,train,Auto-assigned
+P407,1,EcoSort 401-450/P407/1.jpg,Rigid Part / Fragment,5,train,Auto-assigned
+P407,2,EcoSort 401-450/P407/2.jpg,Rigid Part / Fragment,5,train,Auto-assigned
+P407,3,EcoSort 401-450/P407/3.jpg,Rigid Part / Fragment,5,train,Auto-assigned
+P408,1,EcoSort 401-450/P408/1.jpg,Rigid Part / Fragment,4,train,Auto-assigned
+P408,2,EcoSort 401-450/P408/2.jpg,Rigid Part / Fragment,4,train,Auto-assigned
+P408,3,EcoSort 401-450/P408/3.jpg,Rigid Part / Fragment,4,train,Auto-assigned
+P409,1,EcoSort 401-450/P409/1.jpg,Cap / Lid,4,train,Auto-assigned
+P409,2,EcoSort 401-450/P409/2.jpg,Cap / Lid,4,train,Auto-assigned
+P409,3,EcoSort 401-450/P409/3.jpg,Cap / Lid,4,train,Auto-assigned
+P410,1,EcoSort 401-450/P410/1.jpg,Rigid Part / Fragment,3.5,train,Auto-assigned
+P410,2,EcoSort 401-450/P410/2.jpg,Rigid Part / Fragment,3.5,train,Auto-assigned
+P410,3,EcoSort 401-450/P410/3.jpg,Rigid Part / Fragment,3.5,train,Auto-assigned
+P411,1,EcoSort 401-450/P411/1.jpg,Container / Tray,2.5,train,Manually verified
+P411,2,EcoSort 401-450/P411/2.jpg,Container / Tray,2.5,train,Manually verified
+P411,3,EcoSort 401-450/P411/3.jpg,Container / Tray,2.5,train,Manually verified
+P412,1,EcoSort 401-450/P412/1.jpg,Cap / Lid,1,train,Auto-assigned
+P412,2,EcoSort 401-450/P412/2.jpg,Cap / Lid,1,train,Auto-assigned
+P412,3,EcoSort 401-450/P412/3.jpg,Cap / Lid,1,train,Auto-assigned
+P413,1,EcoSort 401-450/P413/1.jpg,Cap / Lid,22,train,Manually verified
+P413,2,EcoSort 401-450/P413/2.jpg,Cap / Lid,22,train,Manually verified
+P413,3,EcoSort 401-450/P413/3.jpg,Cap / Lid,22,train,Manually verified
+P414,1,EcoSort 401-450/P414/1.jpg,Cap / Lid,2.5,train,Auto-assigned
+P414,2,EcoSort 401-450/P414/2.jpg,Cap / Lid,2.5,train,Auto-assigned
+P414,3,EcoSort 401-450/P414/3.jpg,Cap / Lid,2.5,train,Auto-assigned
+P415,1,EcoSort 401-450/P415/1.jpg,Rigid Part / Fragment,6,train,Auto-assigned
+P415,2,EcoSort 401-450/P415/2.jpg,Rigid Part / Fragment,6,train,Auto-assigned
+P415,3,EcoSort 401-450/P415/3.jpg,Rigid Part / Fragment,6,train,Auto-assigned
+P416,1,EcoSort 401-450/P416/1.jpg,Wrapper / Flexible Packaging,9,train,Manually verified
+P416,2,EcoSort 401-450/P416/2.jpg,Wrapper / Flexible Packaging,9,train,Manually verified
+P416,3,EcoSort 401-450/P416/3.jpg,Wrapper / Flexible Packaging,9,train,Manually verified
+P417,1,EcoSort 401-450/P417/1.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P417,2,EcoSort 401-450/P417/2.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P417,3,EcoSort 401-450/P417/3.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P418,1,EcoSort 401-450/P418/1.jpg,Wrapper / Flexible Packaging,3.5,test,Auto-assigned
+P418,2,EcoSort 401-450/P418/2.jpg,Wrapper / Flexible Packaging,3.5,test,Auto-assigned
+P418,3,EcoSort 401-450/P418/3.jpg,Wrapper / Flexible Packaging,3.5,test,Auto-assigned
+P419,1,EcoSort 401-450/P419/1.jpg,Rigid Part / Fragment,2,validation,Auto-assigned
+P419,2,EcoSort 401-450/P419/2.jpg,Rigid Part / Fragment,2,validation,Auto-assigned
+P419,3,EcoSort 401-450/P419/3.jpg,Rigid Part / Fragment,2,validation,Auto-assigned
+P420,1,EcoSort 401-450/P420/1.jpg,Container / Tray,11,train,Auto-assigned
+P420,2,EcoSort 401-450/P420/2.jpg,Container / Tray,11,train,Auto-assigned
+P420,3,EcoSort 401-450/P420/3.jpg,Container / Tray,11,train,Auto-assigned
+P421,1,EcoSort 401-450/P421/1.jpg,Rigid Part / Fragment,25,validation,Auto-assigned
+P421,2,EcoSort 401-450/P421/2.jpg,Rigid Part / Fragment,25,validation,Auto-assigned
+P421,3,EcoSort 401-450/P421/3.jpg,Rigid Part / Fragment,25,validation,Auto-assigned
+P422,1,EcoSort 401-450/P422/1.jpg,Bottle,5,train,Manually verified
+P422,2,EcoSort 401-450/P422/2.jpg,Bottle,5,train,Manually verified
+P422,3,EcoSort 401-450/P422/3.jpg,Bottle,5,train,Manually verified
+P423,1,EcoSort 401-450/P423/1.jpg,Rigid Part / Fragment,4.5,test,Auto-assigned
+P423,2,EcoSort 401-450/P423/2.jpg,Rigid Part / Fragment,4.5,test,Auto-assigned
+P423,3,EcoSort 401-450/P423/3.jpg,Rigid Part / Fragment,4.5,test,Auto-assigned
+P424,1,EcoSort 401-450/P424/1.jpg,Bottle,22,train,Manually verified
+P424,2,EcoSort 401-450/P424/2.jpg,Bottle,22,train,Manually verified
+P424,3,EcoSort 401-450/P424/3.jpg,Bottle,22,train,Manually verified
+P425,1,EcoSort 401-450/P425/1.jpg,Cap / Lid,2.5,train,Auto-assigned
+P425,2,EcoSort 401-450/P425/2.jpg,Cap / Lid,2.5,train,Auto-assigned
+P425,3,EcoSort 401-450/P425/3.jpg,Cap / Lid,2.5,train,Auto-assigned
+P426,1,EcoSort 401-450/P426/1.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P426,2,EcoSort 401-450/P426/2.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P426,3,EcoSort 401-450/P426/3.jpg,Wrapper / Flexible Packaging,2.5,train,Auto-assigned
+P427,1,EcoSort 401-450/P427/1.jpg,Wrapper / Flexible Packaging,22,train,Manually verified
+P427,2,EcoSort 401-450/P427/2.jpg,Wrapper / Flexible Packaging,22,train,Manually verified
+P427,3,EcoSort 401-450/P427/3.jpg,Wrapper / Flexible Packaging,22,train,Manually verified
+P428,1,EcoSort 401-450/P428/1.jpg,Cap / Lid,2.5,train,Auto-assigned
+P428,2,EcoSort 401-450/P428/2.jpg,Cap / Lid,2.5,train,Auto-assigned
+P428,3,EcoSort 401-450/P428/3.jpg,Cap / Lid,2.5,train,Auto-assigned
+P429,1,EcoSort 401-450/P429/1.jpg,Rigid Part / Fragment,5,train,Auto-assigned
+P429,2,EcoSort 401-450/P429/2.jpg,Rigid Part / Fragment,5,train,Auto-assigned
+P429,3,EcoSort 401-450/P429/3.jpg,Rigid Part / Fragment,5,train,Auto-assigned
+P430,1,EcoSort 401-450/P430/1.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P430,2,EcoSort 401-450/P430/2.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P430,3,EcoSort 401-450/P430/3.jpg,Wrapper / Flexible Packaging,3,train,Auto-assigned
+P431,1,EcoSort 401-450/P431/1.jpg,Rigid Part / Fragment,15,validation,Auto-assigned
+P431,2,EcoSort 401-450/P431/2.jpg,Rigid Part / Fragment,15,validation,Auto-assigned
+P431,3,EcoSort 401-450/P431/3.jpg,Rigid Part / Fragment,15,validation,Auto-assigned
+P432,1,EcoSort 401-450/P432/1.jpg,Cap / Lid,8,train,Auto-assigned
+P432,2,EcoSort 401-450/P432/2.jpg,Cap / Lid,8,train,Auto-assigned
+P432,3,EcoSort 401-450/P432/3.jpg,Cap / Lid,8,train,Auto-assigned
+P433,1,EcoSort 401-450/P433/1.jpg,Cup,12,train,Auto-assigned
+P433,2,EcoSort 401-450/P433/2.jpg,Cup,12,train,Auto-assigned
+P433,3,EcoSort 401-450/P433/3.jpg,Cup,12,train,Auto-assigned
+P434,1,EcoSort 401-450/P434/1.jpg,Rigid Part / Fragment,5,train,Auto-assigned
+P434,2,EcoSort 401-450/P434/2.jpg,Rigid Part / Fragment,5,train,Auto-assigned
+P434,3,EcoSort 401-450/P434/3.jpg,Rigid Part / Fragment,5,train,Auto-assigned
+P435,1,EcoSort 401-450/P435/1.jpg,Cap / Lid,2.5,train,Auto-assigned
+P435,2,EcoSort 401-450/P435/2.jpg,Cap / Lid,2.5,train,Auto-assigned
+P435,3,EcoSort 401-450/P435/3.jpg,Cap / Lid,2.5,train,Auto-assigned
+P436,1,EcoSort 401-450/P436/1.jpg,Cap / Lid,2.5,train,Auto-assigned
+P436,2,EcoSort 401-450/P436/2.jpg,Cap / Lid,2.5,train,Auto-assigned
+P436,3,EcoSort 401-450/P436/3.jpg,Cap / Lid,2.5,train,Auto-assigned
+P437,1,EcoSort 401-450/P437/1.jpg,Rigid Part / Fragment,4,train,Auto-assigned
+P437,2,EcoSort 401-450/P437/2.jpg,Rigid Part / Fragment,4,train,Auto-assigned
+P437,3,EcoSort 401-450/P437/3.jpg,Rigid Part / Fragment,4,train,Auto-assigned
+P438,1,EcoSort 401-450/P438/1.jpg,Wrapper / Flexible Packaging,3,test,Auto-assigned
+P438,2,EcoSort 401-450/P438/2.jpg,Wrapper / Flexible Packaging,3,test,Auto-assigned
+P438,3,EcoSort 401-450/P438/3.jpg,Wrapper / Flexible Packaging,3,test,Auto-assigned
+P439,1,EcoSort 401-450/P439/1.jpg,Wrapper / Flexible Packaging,4,train,Auto-assigned
+P439,2,EcoSort 401-450/P439/2.jpg,Wrapper / Flexible Packaging,4,train,Auto-assigned
+P439,3,EcoSort 401-450/P439/3.jpg,Wrapper / Flexible Packaging,4,train,Auto-assigned
+P440,1,EcoSort 401-450/P440/1.jpg,Bag / Film,5,train,Auto-assigned
+P440,2,EcoSort 401-450/P440/2.jpg,Bag / Film,5,train,Auto-assigned
+P440,3,EcoSort 401-450/P440/3.jpg,Bag / Film,5,train,Auto-assigned
+P441,1,EcoSort 401-450/P441/1.jpg,Rigid Part / Fragment,4,validation,Auto-assigned
+P441,2,EcoSort 401-450/P441/2.jpg,Rigid Part / Fragment,4,validation,Auto-assigned
+P441,3,EcoSort 401-450/P441/3.jpg,Rigid Part / Fragment,4,validation,Auto-assigned
+P442,1,EcoSort 401-450/P442/1.jpg,Rigid Part / Fragment,5,validation,Manually verified
+P442,2,EcoSort 401-450/P442/2.jpg,Rigid Part / Fragment,5,validation,Manually verified
+P442,3,EcoSort 401-450/P442/3.jpg,Rigid Part / Fragment,5,validation,Manually verified
+P443,1,EcoSort 401-450/P443/1.jpg,Wrapper / Flexible Packaging,4,test,Auto-assigned
+P443,2,EcoSort 401-450/P443/2.jpg,Wrapper / Flexible Packaging,4,test,Auto-assigned
+P443,3,EcoSort 401-450/P443/3.jpg,Wrapper / Flexible Packaging,4,test,Auto-assigned
+P444,1,EcoSort 401-450/P444/1.jpg,Container / Tray,15,train,Manually verified
+P444,2,EcoSort 401-450/P444/2.jpg,Container / Tray,15,train,Manually verified
+P444,3,EcoSort 401-450/P444/3.jpg,Container / Tray,15,train,Manually verified
+P445,1,EcoSort 401-450/P445/1.jpg,Bottle,25,train,Auto-assigned
+P445,2,EcoSort 401-450/P445/2.jpg,Bottle,25,train,Auto-assigned
+P445,3,EcoSort 401-450/P445/3.jpg,Bottle,25,train,Auto-assigned
+P446,1,EcoSort 401-450/P446/1.jpg,Rigid Part / Fragment,6,train,Auto-assigned
+P446,2,EcoSort 401-450/P446/2.jpg,Rigid Part / Fragment,6,train,Auto-assigned
+P446,3,EcoSort 401-450/P446/3.jpg,Rigid Part / Fragment,6,train,Auto-assigned
+P447,1,EcoSort 401-450/P447/1.jpg,Rigid Part / Fragment,10,train,Auto-assigned
+P447,2,EcoSort 401-450/P447/2.jpg,Rigid Part / Fragment,10,train,Auto-assigned
+P447,3,EcoSort 401-450/P447/3.jpg,Rigid Part / Fragment,10,train,Auto-assigned
+P448,1,EcoSort 401-450/P448/1.jpg,Cap / Lid,2.5,train,Auto-assigned
+P448,2,EcoSort 401-450/P448/2.jpg,Cap / Lid,2.5,train,Auto-assigned
+P448,3,EcoSort 401-450/P448/3.jpg,Cap / Lid,2.5,train,Auto-assigned
+P449,1,EcoSort 401-450/P449/1.jpg,Container / Tray,30,train,Manually verified
+P449,2,EcoSort 401-450/P449/2.jpg,Container / Tray,30,train,Manually verified
+P449,3,EcoSort 401-450/P449/3.jpg,Container / Tray,30,train,Manually verified
+P450,1,EcoSort 401-450/P450/1.jpg,Bottle,22,train,Manually verified
+P450,2,EcoSort 401-450/P450/2.jpg,Bottle,22,train,Manually verified
+P450,3,EcoSort 401-450/P450/3.jpg,Bottle,22,train,Manually verified
